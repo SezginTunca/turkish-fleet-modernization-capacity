@@ -1,0 +1,1612 @@
+{
+  "pca": {
+    "diagnostics": {
+      "kmo": 0.527,
+      "bartlett_chi2": 517.0,
+      "bartlett_df": 10,
+      "bartlett_p": "<0.001"
+    },
+    "eigenvalues": [
+      {
+        "Component": "PC1",
+        "Eigenvalue": 3.351,
+        "Variance_%": 66.48,
+        "Cumulative_%": 66.48
+      },
+      {
+        "Component": "PC2",
+        "Eigenvalue": 0.876,
+        "Variance_%": 17.37,
+        "Cumulative_%": 83.85
+      },
+      {
+        "Component": "PC3",
+        "Eigenvalue": 0.462,
+        "Variance_%": 9.16,
+        "Cumulative_%": 93.01
+      },
+      {
+        "Component": "PC4",
+        "Eigenvalue": 0.318,
+        "Variance_%": 6.31,
+        "Cumulative_%": 99.32
+      },
+      {
+        "Component": "PC5",
+        "Eigenvalue": 0.034,
+        "Variance_%": 0.68,
+        "Cumulative_%": 100.0
+      }
+    ],
+    "loadings": {
+      "Equipments_Vessel_with_Echo_Sounder": 0.4169,
+      "Equipments_Vessel_with_GPS_Satellite": 0.5144,
+      "Equipments_Vessel_with_Radar": 0.4134,
+      "Equipments_Vessel_with_Radio": 0.4354,
+      "Equipments_Vessel_with_Sonar": 0.4486
+    }
+  },
+  "dea": {
+    "mean_cu": 0.342,
+    "std_cu": 0.223,
+    "min_cu": 0.092,
+    "max_cu": 1.0,
+    "n_valid": 125,
+    "by_region": {
+      "Aegean": {
+        "mean": 0.15,
+        "std": 0.047
+      },
+      "East_Black_Sea": {
+        "mean": 0.561,
+        "std": 0.192
+      },
+      "Marmara": {
+        "mean": 0.241,
+        "std": 0.12
+      },
+      "Mediterranean": {
+        "mean": 0.253,
+        "std": 0.084
+      },
+      "West_Black_Sea": {
+        "mean": 0.504,
+        "std": 0.248
+      }
+    }
+  },
+  "dea_decomposition": {
+    "by_region": {
+      "Aegean": {
+        "CRS_TE": 0.15,
+        "VRS_TE": 0.322,
+        "Scale_Eff": 0.464
+      },
+      "East_Black_Sea": {
+        "CRS_TE": 0.561,
+        "VRS_TE": 0.613,
+        "Scale_Eff": 0.898
+      },
+      "Marmara": {
+        "CRS_TE": 0.241,
+        "VRS_TE": 0.532,
+        "Scale_Eff": 0.445
+      },
+      "Mediterranean": {
+        "CRS_TE": 0.253,
+        "VRS_TE": 0.765,
+        "Scale_Eff": 0.33
+      },
+      "West_Black_Sea": {
+        "CRS_TE": 0.504,
+        "VRS_TE": 0.741,
+        "Scale_Eff": 0.655
+      }
+    },
+    "overall_mean_se": 0.558,
+    "overall_std_se": 0.258,
+    "n_crs": 20,
+    "n_non_crs": 105
+  },
+  "unit_roots": {
+    "Log(Value)": {
+      "variable": "Log(Value)",
+      "fisher_stat": 16.505,
+      "fisher_df": 10,
+      "fisher_p": 0.0861,
+      "individual": {
+        "Aegean": {
+          "adf_stat": -2.475,
+          "p": 0.1217
+        },
+        "East_Black_Sea": {
+          "adf_stat": -2.05,
+          "p": 0.2649
+        },
+        "Marmara": {
+          "adf_stat": -1.585,
+          "p": 0.4913
+        },
+        "Mediterranean": {
+          "adf_stat": -2.785,
+          "p": 0.0604
+        },
+        "West_Black_Sea": {
+          "adf_stat": -2.032,
+          "p": 0.2726
+        }
+      },
+      "conclusion": "Unit root (I(1))"
+    },
+    "MI": {
+      "variable": "MI",
+      "fisher_stat": 6.722,
+      "fisher_df": 10,
+      "fisher_p": 0.7514,
+      "individual": {
+        "Aegean": {
+          "adf_stat": -1.486,
+          "p": 0.5403
+        },
+        "East_Black_Sea": {
+          "adf_stat": -1.417,
+          "p": 0.5743
+        },
+        "Marmara": {
+          "adf_stat": -1.547,
+          "p": 0.5102
+        },
+        "Mediterranean": {
+          "adf_stat": -1.438,
+          "p": 0.5638
+        },
+        "West_Black_Sea": {
+          "adf_stat": -1.783,
+          "p": 0.3888
+        }
+      },
+      "conclusion": "Unit root (I(1))"
+    }
+  },
+  "cointegration": {
+    "variable_pair": "Modernization_Index & Log_Value",
+    "fisher_stat": 19.382,
+    "fisher_df": 10,
+    "fisher_p": 0.0357,
+    "n_regions": 5,
+    "n_cointegrated": 1,
+    "individual": {
+      "Aegean": {
+        "eg_beta": -0.0568,
+        "adf_stat": -2.501,
+        "adf_p": 0.1153,
+        "cointegrated": "False"
+      },
+      "East_Black_Sea": {
+        "eg_beta": -0.055,
+        "adf_stat": -2.11,
+        "adf_p": 0.2405,
+        "cointegrated": "False"
+      },
+      "Marmara": {
+        "eg_beta": -0.1931,
+        "adf_stat": -2.653,
+        "adf_p": 0.0825,
+        "cointegrated": "False"
+      },
+      "Mediterranean": {
+        "eg_beta": 0.0709,
+        "adf_stat": -2.936,
+        "adf_p": 0.0414,
+        "cointegrated": "True"
+      },
+      "West_Black_Sea": {
+        "eg_beta": -0.2117,
+        "adf_stat": -1.247,
+        "adf_p": 0.6533,
+        "cointegrated": "False"
+      }
+    },
+    "conclusion": "Cointegrated (reject H0: no cointegration)"
+  },
+  "baseline_ols": {
+    "beta": -0.0964,
+    "se": 0.0474,
+    "p": 0.0421,
+    "ci_lo": -0.1894,
+    "ci_hi": -0.0034,
+    "r2": 0.6662,
+    "n": 125,
+    "dw": 0.847,
+    "se_type": "cluster"
+  },
+  "residual_diagnostics": {
+    "mean_resid": 0.0,
+    "std_resid": 0.3769,
+    "skewness": -0.086,
+    "kurtosis": -0.987,
+    "jarque_bera_stat": 5.229,
+    "jarque_bera_p": 0.0732
+  },
+  "fgls_ar1": {
+    "beta": -0.0633,
+    "se": 0.0212,
+    "p": 0.0029,
+    "r2": 0.9969,
+    "n": 125,
+    "rho_hat": 0.5932,
+    "dw_corrected": 2.117
+  },
+  "driscoll_kraay": {
+    "beta": -0.0964,
+    "se_dk": 0.0609,
+    "t_stat": -1.585,
+    "p": 0.1267,
+    "max_lag": 2,
+    "n": 125
+  },
+  "pcse": {
+    "beta": -0.0964,
+    "se_pcse": 0.0265,
+    "t_stat": -3.641,
+    "p": 0.0004,
+    "n": 125
+  },
+  "iv_2sls": {
+    "beta_2sls": -0.1313,
+    "se_2sls": 0.0221,
+    "p_2sls": 0.0,
+    "beta_ols": -0.0929,
+    "first_stage_F": 371.87,
+    "hausman_stat": 29.094,
+    "hausman_p": 0.0,
+    "n": 120,
+    "instrument": "MI_lag1"
+  },
+  "hausman_fe_re": {
+    "beta_fe": -0.0964,
+    "beta_pooled": -0.1103,
+    "hausman_stat": "N/A",
+    "hausman_p": "N/A",
+    "conclusion": "RE acceptable"
+  },
+  "jackknife": {
+    "excl_Aegean": {
+      "beta": -0.1117,
+      "se": 0.0229,
+      "p": 0.0,
+      "n": 100
+    },
+    "excl_East_Black_Sea": {
+      "beta": -0.105,
+      "se": 0.0209,
+      "p": 0.0,
+      "n": 100
+    },
+    "excl_Marmara": {
+      "beta": -0.0549,
+      "se": 0.0207,
+      "p": 0.008,
+      "n": 100
+    },
+    "excl_Mediterranean": {
+      "beta": -0.1238,
+      "se": 0.0189,
+      "p": 0.0,
+      "n": 100
+    },
+    "excl_West_Black_Sea": {
+      "beta": -0.0823,
+      "se": 0.02,
+      "p": 0.0,
+      "n": 100
+    }
+  },
+  "bootstrap": {
+    "t_obs": -2.032,
+    "p_boot": 0.0951,
+    "n_boot": 999
+  },
+  "cu_mi_regression": {
+    "beta": -0.0232,
+    "se": 0.0065,
+    "p": 0.0004,
+    "r2": 0.5597,
+    "n": 125
+  },
+  "second_stage": {
+    "ols": {
+      "method": "OLS",
+      "beta": -0.0232,
+      "se": 0.0065,
+      "p": 0.0004,
+      "r2": 0.5597,
+      "n": 125
+    },
+    "tobit": {
+      "method": "Tobit (censored at 1)",
+      "beta": -0.0232,
+      "se": 0.0073,
+      "p": 0.0016,
+      "log_likelihood": 64.88,
+      "n": 125,
+      "n_censored": 0
+    },
+    "fractional": {
+      "method": "Fractional (Papke-Wooldridge)",
+      "beta_logit": -0.1227,
+      "se": 0.0323,
+      "p": 0.0001,
+      "marginal_effect": -0.0264,
+      "pseudo_r2": 0.5594,
+      "n": 125
+    },
+    "simar_wilson": {
+      "method": "Simar-Wilson (Algorithm 2)",
+      "beta_raw": -0.0232,
+      "beta_bias_corrected": -0.0246,
+      "se_bootstrap": 0.0068,
+      "p": 0.0005,
+      "ci_lo": -0.0355,
+      "ci_hi": -0.0079,
+      "n": 125,
+      "n_boot": 2000,
+      "bias": 0.0013
+    }
+  },
+  "malmquist": {
+    "mean_EC": 1.071,
+    "mean_TC": 1.284,
+    "mean_TFP": 1.286,
+    "by_region": {
+      "Aegean": {
+        "mean_EC": 1.034,
+        "mean_TC": 1.284,
+        "mean_TFP": 1.215
+      },
+      "East_Black_Sea": {
+        "mean_EC": 1.054,
+        "mean_TC": 1.284,
+        "mean_TFP": 1.345
+      },
+      "Marmara": {
+        "mean_EC": 1.091,
+        "mean_TC": 1.284,
+        "mean_TFP": 1.303
+      },
+      "Mediterranean": {
+        "mean_EC": 1.061,
+        "mean_TC": 1.284,
+        "mean_TFP": 1.243
+      },
+      "West_Black_Sea": {
+        "mean_EC": 1.115,
+        "mean_TC": 1.284,
+        "mean_TFP": 1.326
+      }
+    },
+    "detail": {
+      "Aegean": [
+        {
+          "year_from": 2000,
+          "year_to": 2001,
+          "EC": 1.0942,
+          "TC": 1.1979,
+          "TFP": 1.3107
+        },
+        {
+          "year_from": 2001,
+          "year_to": 2002,
+          "EC": 0.6347,
+          "TC": 1.172,
+          "TFP": 0.7439
+        },
+        {
+          "year_from": 2002,
+          "year_to": 2003,
+          "EC": 0.9103,
+          "TC": 1.2869,
+          "TFP": 1.1715
+        },
+        {
+          "year_from": 2003,
+          "year_to": 2004,
+          "EC": 1.0564,
+          "TC": 1.2684,
+          "TFP": 1.3399
+        },
+        {
+          "year_from": 2004,
+          "year_to": 2005,
+          "EC": 1.3118,
+          "TC": 1.2578,
+          "TFP": 1.65
+        },
+        {
+          "year_from": 2005,
+          "year_to": 2006,
+          "EC": 0.9044,
+          "TC": 1.3595,
+          "TFP": 1.2295
+        },
+        {
+          "year_from": 2006,
+          "year_to": 2007,
+          "EC": 0.9285,
+          "TC": 0.9052,
+          "TFP": 0.8404
+        },
+        {
+          "year_from": 2007,
+          "year_to": 2008,
+          "EC": 0.999,
+          "TC": 0.8177,
+          "TFP": 0.8168
+        },
+        {
+          "year_from": 2008,
+          "year_to": 2009,
+          "EC": 1.4335,
+          "TC": 0.6021,
+          "TFP": 0.8631
+        },
+        {
+          "year_from": 2009,
+          "year_to": 2010,
+          "EC": 0.6587,
+          "TC": 1.556,
+          "TFP": 1.025
+        },
+        {
+          "year_from": 2010,
+          "year_to": 2011,
+          "EC": 0.7282,
+          "TC": 1.5035,
+          "TFP": 1.0948
+        },
+        {
+          "year_from": 2011,
+          "year_to": 2012,
+          "EC": 1.5741,
+          "TC": 0.7552,
+          "TFP": 1.1888
+        },
+        {
+          "year_from": 2012,
+          "year_to": 2013,
+          "EC": 0.8227,
+          "TC": 1.226,
+          "TFP": 1.0087
+        },
+        {
+          "year_from": 2013,
+          "year_to": 2014,
+          "EC": 1.6909,
+          "TC": 0.6421,
+          "TFP": 1.0858
+        },
+        {
+          "year_from": 2014,
+          "year_to": 2015,
+          "EC": 0.6483,
+          "TC": 1.7369,
+          "TFP": 1.126
+        },
+        {
+          "year_from": 2015,
+          "year_to": 2016,
+          "EC": 0.9808,
+          "TC": 1.0647,
+          "TFP": 1.0443
+        },
+        {
+          "year_from": 2016,
+          "year_to": 2017,
+          "EC": 1.7173,
+          "TC": 1.0053,
+          "TFP": 1.7265
+        },
+        {
+          "year_from": 2017,
+          "year_to": 2018,
+          "EC": 1.2139,
+          "TC": 0.885,
+          "TFP": 1.0743
+        },
+        {
+          "year_from": 2018,
+          "year_to": 2019,
+          "EC": 0.4797,
+          "TC": 2.581,
+          "TFP": 1.2381
+        },
+        {
+          "year_from": 2019,
+          "year_to": 2020,
+          "EC": 0.9952,
+          "TC": 1.1627,
+          "TFP": 1.1571
+        },
+        {
+          "year_from": 2020,
+          "year_to": 2021,
+          "EC": 1.2593,
+          "TC": 0.9333,
+          "TFP": 1.1754
+        },
+        {
+          "year_from": 2021,
+          "year_to": 2022,
+          "EC": 0.8429,
+          "TC": 2.4162,
+          "TFP": 2.0365
+        },
+        {
+          "year_from": 2022,
+          "year_to": 2023,
+          "EC": 1.1792,
+          "TC": 1.3988,
+          "TFP": 1.6494
+        },
+        {
+          "year_from": 2023,
+          "year_to": 2024,
+          "EC": 0.7537,
+          "TC": 2.0756,
+          "TFP": 1.5644
+        }
+      ],
+      "East_Black_Sea": [
+        {
+          "year_from": 2000,
+          "year_to": 2001,
+          "EC": 0.9612,
+          "TC": 1.1979,
+          "TFP": 1.1515
+        },
+        {
+          "year_from": 2001,
+          "year_to": 2002,
+          "EC": 0.8062,
+          "TC": 1.172,
+          "TFP": 0.9449
+        },
+        {
+          "year_from": 2002,
+          "year_to": 2003,
+          "EC": 0.9605,
+          "TC": 1.2869,
+          "TFP": 1.2361
+        },
+        {
+          "year_from": 2003,
+          "year_to": 2004,
+          "EC": 1.1134,
+          "TC": 1.2684,
+          "TFP": 1.4122
+        },
+        {
+          "year_from": 2004,
+          "year_to": 2005,
+          "EC": 1.0124,
+          "TC": 1.2578,
+          "TFP": 1.2734
+        },
+        {
+          "year_from": 2005,
+          "year_to": 2006,
+          "EC": 1.1919,
+          "TC": 1.3595,
+          "TFP": 1.6205
+        },
+        {
+          "year_from": 2006,
+          "year_to": 2007,
+          "EC": 1.0,
+          "TC": 0.9052,
+          "TFP": 0.9052
+        },
+        {
+          "year_from": 2007,
+          "year_to": 2008,
+          "EC": 1.0,
+          "TC": 0.8177,
+          "TFP": 0.8177
+        },
+        {
+          "year_from": 2008,
+          "year_to": 2009,
+          "EC": 1.0,
+          "TC": 0.6021,
+          "TFP": 0.6021
+        },
+        {
+          "year_from": 2009,
+          "year_to": 2010,
+          "EC": 1.0,
+          "TC": 1.556,
+          "TFP": 1.556
+        },
+        {
+          "year_from": 2010,
+          "year_to": 2011,
+          "EC": 1.0,
+          "TC": 1.5035,
+          "TFP": 1.5035
+        },
+        {
+          "year_from": 2011,
+          "year_to": 2012,
+          "EC": 1.0,
+          "TC": 0.7552,
+          "TFP": 0.7552
+        },
+        {
+          "year_from": 2012,
+          "year_to": 2013,
+          "EC": 1.0,
+          "TC": 1.226,
+          "TFP": 1.226
+        },
+        {
+          "year_from": 2013,
+          "year_to": 2014,
+          "EC": 0.9309,
+          "TC": 0.6421,
+          "TFP": 0.5978
+        },
+        {
+          "year_from": 2014,
+          "year_to": 2015,
+          "EC": 1.0742,
+          "TC": 1.7369,
+          "TFP": 1.8657
+        },
+        {
+          "year_from": 2015,
+          "year_to": 2016,
+          "EC": 0.4931,
+          "TC": 1.0647,
+          "TFP": 0.525
+        },
+        {
+          "year_from": 2016,
+          "year_to": 2017,
+          "EC": 2.0279,
+          "TC": 1.0053,
+          "TFP": 2.0387
+        },
+        {
+          "year_from": 2017,
+          "year_to": 2018,
+          "EC": 0.7286,
+          "TC": 0.885,
+          "TFP": 0.6448
+        },
+        {
+          "year_from": 2018,
+          "year_to": 2019,
+          "EC": 1.3724,
+          "TC": 2.581,
+          "TFP": 3.5423
+        },
+        {
+          "year_from": 2019,
+          "year_to": 2020,
+          "EC": 0.5716,
+          "TC": 1.1627,
+          "TFP": 0.6646
+        },
+        {
+          "year_from": 2020,
+          "year_to": 2021,
+          "EC": 1.4677,
+          "TC": 0.9333,
+          "TFP": 1.3699
+        },
+        {
+          "year_from": 2021,
+          "year_to": 2022,
+          "EC": 0.5115,
+          "TC": 2.4162,
+          "TFP": 1.2359
+        },
+        {
+          "year_from": 2022,
+          "year_to": 2023,
+          "EC": 2.3305,
+          "TC": 1.3988,
+          "TFP": 3.2597
+        },
+        {
+          "year_from": 2023,
+          "year_to": 2024,
+          "EC": 0.7393,
+          "TC": 2.0756,
+          "TFP": 1.5344
+        }
+      ],
+      "Marmara": [
+        {
+          "year_from": 2000,
+          "year_to": 2001,
+          "EC": 1.8635,
+          "TC": 1.1979,
+          "TFP": 2.2323
+        },
+        {
+          "year_from": 2001,
+          "year_to": 2002,
+          "EC": 0.9328,
+          "TC": 1.172,
+          "TFP": 1.0933
+        },
+        {
+          "year_from": 2002,
+          "year_to": 2003,
+          "EC": 1.106,
+          "TC": 1.2869,
+          "TFP": 1.4234
+        },
+        {
+          "year_from": 2003,
+          "year_to": 2004,
+          "EC": 0.9342,
+          "TC": 1.2684,
+          "TFP": 1.185
+        },
+        {
+          "year_from": 2004,
+          "year_to": 2005,
+          "EC": 0.7712,
+          "TC": 1.2578,
+          "TFP": 0.9701
+        },
+        {
+          "year_from": 2005,
+          "year_to": 2006,
+          "EC": 0.9409,
+          "TC": 1.3595,
+          "TFP": 1.2791
+        },
+        {
+          "year_from": 2006,
+          "year_to": 2007,
+          "EC": 0.732,
+          "TC": 0.9052,
+          "TFP": 0.6626
+        },
+        {
+          "year_from": 2007,
+          "year_to": 2008,
+          "EC": 0.905,
+          "TC": 0.8177,
+          "TFP": 0.74
+        },
+        {
+          "year_from": 2008,
+          "year_to": 2009,
+          "EC": 1.2363,
+          "TC": 0.6021,
+          "TFP": 0.7443
+        },
+        {
+          "year_from": 2009,
+          "year_to": 2010,
+          "EC": 0.7327,
+          "TC": 1.556,
+          "TFP": 1.1401
+        },
+        {
+          "year_from": 2010,
+          "year_to": 2011,
+          "EC": 0.8277,
+          "TC": 1.5035,
+          "TFP": 1.2445
+        },
+        {
+          "year_from": 2011,
+          "year_to": 2012,
+          "EC": 1.7986,
+          "TC": 0.7552,
+          "TFP": 1.3584
+        },
+        {
+          "year_from": 2012,
+          "year_to": 2013,
+          "EC": 0.8022,
+          "TC": 1.226,
+          "TFP": 0.9835
+        },
+        {
+          "year_from": 2013,
+          "year_to": 2014,
+          "EC": 1.3854,
+          "TC": 0.6421,
+          "TFP": 0.8896
+        },
+        {
+          "year_from": 2014,
+          "year_to": 2015,
+          "EC": 0.6429,
+          "TC": 1.7369,
+          "TFP": 1.1166
+        },
+        {
+          "year_from": 2015,
+          "year_to": 2016,
+          "EC": 0.9012,
+          "TC": 1.0647,
+          "TFP": 0.9595
+        },
+        {
+          "year_from": 2016,
+          "year_to": 2017,
+          "EC": 0.9827,
+          "TC": 1.0053,
+          "TFP": 0.9879
+        },
+        {
+          "year_from": 2017,
+          "year_to": 2018,
+          "EC": 2.3856,
+          "TC": 0.885,
+          "TFP": 2.1112
+        },
+        {
+          "year_from": 2018,
+          "year_to": 2019,
+          "EC": 0.2822,
+          "TC": 2.581,
+          "TFP": 0.7283
+        },
+        {
+          "year_from": 2019,
+          "year_to": 2020,
+          "EC": 0.8905,
+          "TC": 1.1627,
+          "TFP": 1.0354
+        },
+        {
+          "year_from": 2020,
+          "year_to": 2021,
+          "EC": 0.8404,
+          "TC": 0.9333,
+          "TFP": 0.7844
+        },
+        {
+          "year_from": 2021,
+          "year_to": 2022,
+          "EC": 1.1175,
+          "TC": 2.4162,
+          "TFP": 2.7002
+        },
+        {
+          "year_from": 2022,
+          "year_to": 2023,
+          "EC": 2.5081,
+          "TC": 1.3988,
+          "TFP": 3.5083
+        },
+        {
+          "year_from": 2023,
+          "year_to": 2024,
+          "EC": 0.6695,
+          "TC": 2.0756,
+          "TFP": 1.3895
+        }
+      ],
+      "Mediterranean": [
+        {
+          "year_from": 2000,
+          "year_to": 2001,
+          "EC": 0.9432,
+          "TC": 1.1979,
+          "TFP": 1.1299
+        },
+        {
+          "year_from": 2001,
+          "year_to": 2002,
+          "EC": 0.7337,
+          "TC": 1.172,
+          "TFP": 0.8599
+        },
+        {
+          "year_from": 2002,
+          "year_to": 2003,
+          "EC": 1.3139,
+          "TC": 1.2869,
+          "TFP": 1.6909
+        },
+        {
+          "year_from": 2003,
+          "year_to": 2004,
+          "EC": 0.8646,
+          "TC": 1.2684,
+          "TFP": 1.0967
+        },
+        {
+          "year_from": 2004,
+          "year_to": 2005,
+          "EC": 1.3361,
+          "TC": 1.2578,
+          "TFP": 1.6806
+        },
+        {
+          "year_from": 2005,
+          "year_to": 2006,
+          "EC": 0.7134,
+          "TC": 1.3595,
+          "TFP": 0.9699
+        },
+        {
+          "year_from": 2006,
+          "year_to": 2007,
+          "EC": 1.2863,
+          "TC": 0.9052,
+          "TFP": 1.1643
+        },
+        {
+          "year_from": 2007,
+          "year_to": 2008,
+          "EC": 1.2748,
+          "TC": 0.8177,
+          "TFP": 1.0424
+        },
+        {
+          "year_from": 2008,
+          "year_to": 2009,
+          "EC": 1.7802,
+          "TC": 0.6021,
+          "TFP": 1.0718
+        },
+        {
+          "year_from": 2009,
+          "year_to": 2010,
+          "EC": 0.8316,
+          "TC": 1.556,
+          "TFP": 1.2939
+        },
+        {
+          "year_from": 2010,
+          "year_to": 2011,
+          "EC": 0.7989,
+          "TC": 1.5035,
+          "TFP": 1.2011
+        },
+        {
+          "year_from": 2011,
+          "year_to": 2012,
+          "EC": 1.2368,
+          "TC": 0.7552,
+          "TFP": 0.9341
+        },
+        {
+          "year_from": 2012,
+          "year_to": 2013,
+          "EC": 0.731,
+          "TC": 1.226,
+          "TFP": 0.8962
+        },
+        {
+          "year_from": 2013,
+          "year_to": 2014,
+          "EC": 0.9092,
+          "TC": 0.6421,
+          "TFP": 0.5838
+        },
+        {
+          "year_from": 2014,
+          "year_to": 2015,
+          "EC": 0.5502,
+          "TC": 1.7369,
+          "TFP": 0.9556
+        },
+        {
+          "year_from": 2015,
+          "year_to": 2016,
+          "EC": 1.8537,
+          "TC": 1.0647,
+          "TFP": 1.9737
+        },
+        {
+          "year_from": 2016,
+          "year_to": 2017,
+          "EC": 1.2606,
+          "TC": 1.0053,
+          "TFP": 1.2673
+        },
+        {
+          "year_from": 2017,
+          "year_to": 2018,
+          "EC": 1.2885,
+          "TC": 0.885,
+          "TFP": 1.1403
+        },
+        {
+          "year_from": 2018,
+          "year_to": 2019,
+          "EC": 0.5655,
+          "TC": 2.581,
+          "TFP": 1.4595
+        },
+        {
+          "year_from": 2019,
+          "year_to": 2020,
+          "EC": 1.0466,
+          "TC": 1.1627,
+          "TFP": 1.2169
+        },
+        {
+          "year_from": 2020,
+          "year_to": 2021,
+          "EC": 1.5521,
+          "TC": 0.9333,
+          "TFP": 1.4486
+        },
+        {
+          "year_from": 2021,
+          "year_to": 2022,
+          "EC": 0.7422,
+          "TC": 2.4162,
+          "TFP": 1.7934
+        },
+        {
+          "year_from": 2022,
+          "year_to": 2023,
+          "EC": 1.2712,
+          "TC": 1.3988,
+          "TFP": 1.7781
+        },
+        {
+          "year_from": 2023,
+          "year_to": 2024,
+          "EC": 0.5691,
+          "TC": 2.0756,
+          "TFP": 1.1811
+        }
+      ],
+      "West_Black_Sea": [
+        {
+          "year_from": 2000,
+          "year_to": 2001,
+          "EC": 1.0084,
+          "TC": 1.1979,
+          "TFP": 1.208
+        },
+        {
+          "year_from": 2001,
+          "year_to": 2002,
+          "EC": 1.0,
+          "TC": 1.172,
+          "TFP": 1.172
+        },
+        {
+          "year_from": 2002,
+          "year_to": 2003,
+          "EC": 1.0,
+          "TC": 1.2869,
+          "TFP": 1.2869
+        },
+        {
+          "year_from": 2003,
+          "year_to": 2004,
+          "EC": 1.0,
+          "TC": 1.2684,
+          "TFP": 1.2684
+        },
+        {
+          "year_from": 2004,
+          "year_to": 2005,
+          "EC": 1.0,
+          "TC": 1.2578,
+          "TFP": 1.2578
+        },
+        {
+          "year_from": 2005,
+          "year_to": 2006,
+          "EC": 0.4767,
+          "TC": 1.3595,
+          "TFP": 0.648
+        },
+        {
+          "year_from": 2006,
+          "year_to": 2007,
+          "EC": 1.0577,
+          "TC": 0.9052,
+          "TFP": 0.9574
+        },
+        {
+          "year_from": 2007,
+          "year_to": 2008,
+          "EC": 0.5966,
+          "TC": 0.8177,
+          "TFP": 0.4878
+        },
+        {
+          "year_from": 2008,
+          "year_to": 2009,
+          "EC": 1.6819,
+          "TC": 0.6021,
+          "TFP": 1.0126
+        },
+        {
+          "year_from": 2009,
+          "year_to": 2010,
+          "EC": 0.9702,
+          "TC": 1.556,
+          "TFP": 1.5096
+        },
+        {
+          "year_from": 2010,
+          "year_to": 2011,
+          "EC": 0.8096,
+          "TC": 1.5035,
+          "TFP": 1.2173
+        },
+        {
+          "year_from": 2011,
+          "year_to": 2012,
+          "EC": 1.9456,
+          "TC": 0.7552,
+          "TFP": 1.4694
+        },
+        {
+          "year_from": 2012,
+          "year_to": 2013,
+          "EC": 0.6983,
+          "TC": 1.226,
+          "TFP": 0.8561
+        },
+        {
+          "year_from": 2013,
+          "year_to": 2014,
+          "EC": 1.8524,
+          "TC": 0.6421,
+          "TFP": 1.1895
+        },
+        {
+          "year_from": 2014,
+          "year_to": 2015,
+          "EC": 0.5909,
+          "TC": 1.7369,
+          "TFP": 1.0263
+        },
+        {
+          "year_from": 2015,
+          "year_to": 2016,
+          "EC": 1.6924,
+          "TC": 1.0647,
+          "TFP": 1.8019
+        },
+        {
+          "year_from": 2016,
+          "year_to": 2017,
+          "EC": 0.7134,
+          "TC": 1.0053,
+          "TFP": 0.7172
+        },
+        {
+          "year_from": 2017,
+          "year_to": 2018,
+          "EC": 1.4016,
+          "TC": 0.885,
+          "TFP": 1.2404
+        },
+        {
+          "year_from": 2018,
+          "year_to": 2019,
+          "EC": 0.3624,
+          "TC": 2.581,
+          "TFP": 0.9355
+        },
+        {
+          "year_from": 2019,
+          "year_to": 2020,
+          "EC": 2.7591,
+          "TC": 1.1627,
+          "TFP": 3.208
+        },
+        {
+          "year_from": 2020,
+          "year_to": 2021,
+          "EC": 1.0,
+          "TC": 0.9333,
+          "TFP": 0.9333
+        },
+        {
+          "year_from": 2021,
+          "year_to": 2022,
+          "EC": 1.0,
+          "TC": 2.4162,
+          "TFP": 2.4162
+        },
+        {
+          "year_from": 2022,
+          "year_to": 2023,
+          "EC": 0.6815,
+          "TC": 1.3988,
+          "TFP": 0.9532
+        },
+        {
+          "year_from": 2023,
+          "year_to": 2024,
+          "EC": 1.4674,
+          "TC": 2.0756,
+          "TFP": 3.0456
+        }
+      ]
+    }
+  },
+  "augmented": {
+    "trend": {
+      "beta": -0.1347,
+      "se": 0.0322,
+      "p": 0.0,
+      "ci_lo": -0.1979,
+      "ci_hi": -0.0716,
+      "r2": 0.6732,
+      "n": 125,
+      "trend_coef": 0.012,
+      "dw": 0.889
+    },
+    "quadratic": {
+      "beta": -0.0572,
+      "se": 0.0217,
+      "p": 0.0085,
+      "ci_lo": -0.0997,
+      "ci_hi": -0.0146,
+      "r2": 0.6827,
+      "n": 125,
+      "mi_sq_p": 0.002
+    },
+    "first_difference": {
+      "beta": -0.0284,
+      "se": 0.0262,
+      "p": 0.2789,
+      "r2": 0.0052,
+      "n": 120
+    },
+    "region_interaction": {
+      "r2": 0.7311,
+      "p_f_test": 0.0,
+      "n": 125,
+      "Modernization_Index:C(Region)[T.East_Black_Sea]": 0.0018,
+      "Modernization_Index:C(Region)[T.Marmara]": -0.1363,
+      "Modernization_Index:C(Region)[T.Mediterranean]": 0.1277,
+      "Modernization_Index:C(Region)[T.West_Black_Sea]": -0.1549
+    }
+  },
+  "se_comparison": {
+    "OLS_cluster": {
+      "beta": -0.0964,
+      "se": 0.0474,
+      "p": 0.0421
+    },
+    "FGLS_AR1": {
+      "beta": -0.0633,
+      "se": 0.0212,
+      "p": 0.0029
+    },
+    "Driscoll_Kraay": {
+      "beta": -0.0964,
+      "se": 0.0609,
+      "p": 0.1267
+    },
+    "PCSE": {
+      "beta": -0.0964,
+      "se": 0.0265,
+      "p": 0.0004
+    },
+    "IV_2SLS": {
+      "beta": -0.1313,
+      "se": 0.0221,
+      "p": 0.0
+    }
+  },
+  "second_stage_comparison": {
+    "ols": {
+      "beta": -0.0232,
+      "se": 0.0065,
+      "p": 0.0004
+    },
+    "tobit": {
+      "beta": -0.0232,
+      "se": 0.0073,
+      "p": 0.0016
+    },
+    "fractional": {
+      "beta": -0.1227,
+      "se": 0.0323,
+      "p": 0.0001,
+      "marginal_effect": -0.0264
+    },
+    "simar_wilson": {
+      "beta": -0.0246,
+      "se": 0.0068,
+      "p": 0.0005
+    }
+  },
+  "mi_by_region_year": {
+    "Aegean": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mi_values": [
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        1.9274,
+        2.6975,
+        1.956,
+        2.6858,
+        1.1085,
+        0.986,
+        0.8173,
+        0.873,
+        1.3755,
+        0.9911,
+        1.1057,
+        0.9743,
+        1.0148,
+        2.4565,
+        1.9362,
+        1.9175,
+        2.9404,
+        2.9324
+      ]
+    },
+    "East_Black_Sea": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mi_values": [
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        0.7106,
+        0.8875,
+        0.616,
+        0.709,
+        0.5892,
+        0.4349,
+        0.2078,
+        -0.0875,
+        -0.1562,
+        0.4404,
+        0.5729,
+        0.7973,
+        1.3034,
+        1.5167,
+        1.4951,
+        1.6546,
+        1.3656,
+        1.3873
+      ]
+    },
+    "Marmara": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mi_values": [
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        2.3521,
+        2.359,
+        1.9732,
+        2.1167,
+        1.2022,
+        1.373,
+        1.1068,
+        1.0387,
+        1.1673,
+        1.9952,
+        2.0385,
+        2.1615,
+        2.2613,
+        2.5799,
+        2.4007,
+        2.3286,
+        2.7971,
+        2.6923
+      ]
+    },
+    "Mediterranean": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mi_values": [
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        0.5619,
+        1.0139,
+        0.9933,
+        0.8048,
+        0.4859,
+        0.7276,
+        0.5983,
+        0.507,
+        0.3905,
+        0.2197,
+        -0.1266,
+        -0.2902,
+        -0.0082,
+        0.2602,
+        0.333,
+        0.7092,
+        0.9299,
+        1.1654
+      ]
+    },
+    "West_Black_Sea": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mi_values": [
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        -2.6722,
+        0.7666,
+        0.2859,
+        0.0003,
+        0.3131,
+        0.3243,
+        0.1776,
+        -0.2756,
+        -0.1106,
+        -0.1835,
+        0.2965,
+        0.2213,
+        0.04,
+        -0.0124,
+        0.2909,
+        0.1174,
+        0.4102,
+        0.2316,
+        0.2724
+      ]
+    }
+  }
+}

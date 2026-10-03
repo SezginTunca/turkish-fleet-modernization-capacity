@@ -1,0 +1,387 @@
+shelter_id,region,province,district,facility_name,facility_type,registration_status,is_dual_registered,is_unregistered,district_fixed,norm_il,norm_ilce,coast_lon,coast_lat,plot_lon,plot_lat
+1,Akdeniz,Adana,Karataş,Karataş Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karataş,adana,karatas,35.382625126674796,36.56692433931764,35.382625126674796,36.56692433931764
+2,Akdeniz,Adana,Yumurtalık,Yumurtalık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Yumurtalık,adana,yumurtalik,35.79156668456711,36.76572643587853,35.79156668456711,36.76572643587853
+3,Akdeniz,Antalya,Alanya,Alanya Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Alanya,antalya,alanya,31.93678140550854,36.56388488678463,31.93678140550854,36.56388488678463
+4,Akdeniz,Antalya,Finike,Finike Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Finike,antalya,finike,30.245250013746016,36.31495489779171,30.245250013746016,36.31495489779171
+5,Akdeniz,Antalya,Kaş,Kalkan Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kaş,antalya,kas,29.412107624971163,36.25947622063674,29.412107624971163,36.25947622063674
+6,Akdeniz,Antalya,Kaş,Kaş Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kaş,antalya,kas,29.64385229292897,36.1947229967196,29.64385229292897,36.1947229967196
+7,Akdeniz,Antalya,Konyaaltı,Antalya Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Konyaaltı,antalya,konyaalti,30.590410304056117,36.80070311655113,30.590410304056117,36.80070311655113
+8,Doğu Karadeniz,Artvin,Arhavi,Arhavi Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Arhavi,artvin,arhavi,41.410575826868254,41.38670816004766,41.410575826868254,41.38670816004766
+9,Doğu Karadeniz,Artvin,Arhavi,Hacılar Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Arhavi,artvin,arhavi,41.329895143750136,41.362190060669136,41.329895143750136,41.362190060669136
+10,Doğu Karadeniz,Artvin,Hopa,Hopa (Yeni) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Hopa,artvin,hopa,41.43360872848812,41.413663115538995,41.43360872848812,41.413663115538995
+11,Doğu Karadeniz,Artvin,Hopa,Hopa Çamlıköy Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Hopa,artvin,hopa,41.43632640018387,41.41688133774041,41.43632640018387,41.41688133774041
+12,Doğu Karadeniz,Artvin,Hopa,Hopa Esenkıyı Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Hopa,artvin,hopa,41.42665929066072,41.40543370536469,41.42665929066072,41.40543370536469
+13,Doğu Karadeniz,Artvin,Hopa,Hopa Limanköy Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Hopa,artvin,hopa,41.4179670167067,41.39514045726437,41.4179670167067,41.39514045726437
+14,Doğu Karadeniz,Artvin,Hopa,Hopa Sugören Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Hopa,artvin,hopa,41.42226200548673,41.400226512459454,41.42226200548673,41.400226512459454
+15,Doğu Karadeniz,Artvin,Kemalpaşa,Kemalpaşa Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kemalpaşa,artvin,kemalpasa,41.4646874281182,41.45046600136838,41.4646874281182,41.45046600136838
+16,Ege,Aydın,Kuşadası,Davutlar Barınma Yeri,Barınma Yeri,Yok,False,True,Kuşadası,aydin,kusadasi,27.25070212540254,37.75806159836549,27.25070212540254,37.75806159836549
+17,Ege,Aydın,Kuşadası,Kuşadası Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Kuşadası,aydin,kusadasi,27.25785345538073,37.864551339386765,27.25785345538073,37.864551339386765
+18,Ege,Aydın,Didim,Akbük Barınma Yeri,Barınma Yeri,TOB,False,False,Didim,aydin,didim,27.42985232886498,37.38700779601632,27.42985232886498,37.38700779601632
+19,Ege,Aydın,Didim,Akköy (Taşburun) Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Didim,aydin,didim,27.224937817631282,37.484606105420795,27.224937817631282,37.484606105420795
+20,Ege,Aydın,Kuşadası,Güzelçamlı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kuşadası,aydin,kusadasi,27.22459804363731,37.71923699317697,27.22459804363731,37.71923699317697
+21,Ege,Balıkesir,Ayvalık,Alibey Adası Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvalık,balikesir,ayvalik,26.853858889756992,39.44083015740586,26.853858889756992,39.44083015740586
+22,Ege,Balıkesir,Ayvalık,Altınova Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Ayvalık,balikesir,ayvalik,26.765510650928555,39.18387911319295,26.765510650928555,39.18387911319295
+23,Marmara,Balıkesir,Bandırma,Bandırma Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bandırma,balikesir,bandirma,27.968511602001442,40.35678162335384,27.968511602001442,40.35678162335384
+24,Marmara,Balıkesir,Bandırma,Dutlimanı Köyü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Bandırma,balikesir,bandirma,27.943374753439603,40.360191539438354,27.943374753439603,40.360191539438354
+25,Marmara,Balıkesir,Bandırma,Musakça Köyü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Bandırma,balikesir,bandirma,27.953489684230053,40.35372516600657,27.953489684230053,40.35372516600657
+26,Marmara,Balıkesir,Bandırma,Sahil Yenice Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Bandırma,balikesir,bandirma,28.114624780896115,40.387871561085525,28.114624780896115,40.387871561085525
+27,Ege,Balıkesir,Burhaniye,Burhaniye Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Burhaniye,balikesir,burhaniye,26.94994556630839,39.54127637374936,26.94994556630839,39.54127637374936
+28,Ege,Balıkesir,Edremit,Altınoluk Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Edremit,balikesir,edremit,26.739171330051217,39.567198484603146,26.739171330051217,39.567198484603146
+29,Ege,Balıkesir,Edremit,Güre Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Edremit,balikesir,edremit,26.894203803107796,39.58470566186819,26.894203803107796,39.58470566186819
+30,Marmara,Balıkesir,Erdek,Aşağı Yapıcı Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.902365295871878,40.390916671365076,27.902365295871878,40.390916671365076
+31,Marmara,Balıkesir,Erdek,Çakıl Köyü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Erdek,balikesir,erdek,28.132955317734343,40.389744072879324,28.132955317734343,40.389744072879324
+32,Marmara,Balıkesir,Erdek,Çayağzı (Şahinburgaz) Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.755939610072673,40.30627898559861,27.755939610072673,40.30627898559861
+33,Marmara,Balıkesir,Erdek,Doğanlar Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.743663303290248,40.52475577774574,27.743663303290248,40.52475577774574
+34,Marmara,Balıkesir,Erdek,Erdek Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.725940502932733,40.30644264684865,27.725940502932733,40.30644264684865
+35,Marmara,Balıkesir,Erdek,İlhan Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.695014334081787,40.50683090734945,27.695014334081787,40.50683090734945
+36,Marmara,Balıkesir,Erdek,Karşıyaka Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Erdek,balikesir,erdek,28.00345077655056,40.43871937699154,28.00345077655056,40.43871937699154
+37,Marmara,Balıkesir,Erdek,Kestanelik Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.990236977596883,40.490495655576154,27.990236977596883,40.490495655576154
+38,Marmara,Balıkesir,Erdek,Narlı Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.69107739685483,40.47075544311354,27.69107739685483,40.47075544311354
+39,Marmara,Balıkesir,Erdek,Ocaklar Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.750369911365496,40.445162292826616,27.750369911365496,40.445162292826616
+40,Marmara,Balıkesir,Erdek,Tatlısu Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.921099013488497,40.40141899950185,27.921099013488497,40.40141899950185
+41,Marmara,Balıkesir,Erdek,Turan Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Erdek,balikesir,erdek,27.78560777129957,40.51164292681067,27.78560777129957,40.51164292681067
+42,Ege,Balıkesir,Gömeç,Gömeç Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Gömeç,balikesir,gomec,26.930662823676546,39.48614347840538,26.930662823676546,39.48614347840538
+43,Ege,Balıkesir,Gömeç,Karaağaç Barınma Yeri,Barınma Yeri,Yok,False,True,Gömeç,balikesir,gomec,26.835795974835747,39.437386603827456,26.835795974835747,39.437386603827456
+44,Marmara,Balıkesir,Marmara,Asmalı Köyü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.706401592399605,40.616412933783195,27.706401592399605,40.616412933783195
+45,Marmara,Balıkesir,Marmara,Avşa Adası Yiğitler Köyü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.529312396931175,40.596809792605015,27.544312396931176,40.596809792605015
+46,Marmara,Balıkesir,Marmara,Çınarlı Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.530676496588047,40.61736390342796,27.530676496588047,40.61736390342796
+47,Marmara,Balıkesir,Marmara,Ekinlik Adası Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.529312396931175,40.596809792605015,27.514312396931174,40.596809792605015
+48,Marmara,Balıkesir,Marmara,Marmara Adası Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.686532984320074,40.4723667693413,27.686532984320074,40.4723667693413
+49,Marmara,Balıkesir,Marmara,Saraylar Beldesi Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.66124484168553,40.65973812925329,27.66124484168553,40.65973812925329
+50,Marmara,Balıkesir,Marmara,Topağaç Köyü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Marmara,balikesir,marmara,27.666249595003862,40.59909987936861,27.666249595003862,40.59909987936861
+51,Batı Karadeniz,Bartın,Amasra,Amasra Limanı Liman,Belirsiz / Diğer,"TOB, UAB",True,False,Amasra,bartin,amasra,32.42507790259325,41.74676393332892,32.42507790259325,41.74676393332892
+52,Batı Karadeniz,Bartın,Amasra,Tarlaağzı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Amasra,bartin,amasra,32.402711948932755,41.74498209730995,32.402711948932755,41.74498209730995
+53,Batı Karadeniz,Bartın,Kurucaşile,Kurucaşile Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kurucaşile,bartin,kurucasile,32.642853459686364,41.83162841765515,32.642853459686364,41.83162841765515
+54,Batı Karadeniz,Bartın,Kurucaşile,Tekkeönü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kurucaşile,bartin,kurucasile,32.61299165626443,41.82959696520734,32.61299165626443,41.82959696520734
+57,Marmara,Bursa,Gemlik,Kurşunlu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gemlik,bursa,gemlik,28.304386316285402,40.39727364472412,28.304386316285402,40.39727364472412
+58,Marmara,Bursa,Gemlik,Merkez Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gemlik,bursa,gemlik,29.14646265041649,40.42764206303337,29.14646265041649,40.42764206303337
+59,Marmara,Bursa,Gemlik,Narlı Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Gemlik,bursa,gemlik,29.03157561519656,40.47815955516383,29.03157561519656,40.47815955516383
+60,Marmara,Bursa,Karacabey,Bayramdere (Yeniköy) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karacabey,bursa,karacabey,28.389771458991632,40.3963884867743,28.389771458991632,40.3963884867743
+61,Marmara,Bursa,Karacabey,Kurşunlu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karacabey,bursa,karacabey,28.274389539962364,40.397584610826534,28.274389539962364,40.397584610826534
+62,Marmara,Bursa,Mudanya,Arnavutköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Mudanya,bursa,mudanya,28.90635463418564,40.36632866485143,28.90635463418564,40.36632866485143
+63,Marmara,Bursa,Mudanya,Güzelyalı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Mudanya,bursa,mudanya,28.9314795,40.35597229003906,28.9314795,40.35597229003906
+64,Marmara,Bursa,Mudanya,Kumyaka Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Mudanya,bursa,mudanya,28.826527251905837,40.390535289233675,28.826527251905837,40.390535289233675
+65,Marmara,Bursa,Mudanya,Zeytinbağ (Trilye) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Mudanya,bursa,mudanya,28.88289328083937,40.378714362229836,28.88289328083937,40.378714362229836
+66,Ege,Çanakkale,Ayvacık,Babakale Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvacık,canakkale,ayvacik,26.46528387059532,39.5221302088076,26.46528387059532,39.5221302088076
+67,Ege,Çanakkale,Ayvacık,Behramkale (Assos Antik Liman) Liman,Belirsiz / Diğer,Yok,False,True,Ayvacık,canakkale,ayvacik,26.458969965272033,39.52107028468165,26.458969965272033,39.52107028468165
+68,Ege,Çanakkale,Ayvacık,Gülpınar Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvacık,canakkale,ayvacik,26.442070321140694,39.51605647861089,26.442070321140694,39.51605647861089
+69,Ege,Çanakkale,Ayvacık,Koyunevi Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvacık,canakkale,ayvacik,26.437262003512377,39.51462994134611,26.437262003512377,39.51462994134611
+70,Ege,Çanakkale,Ayvacık,Küçükkuyu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvacık,canakkale,ayvacik,26.451189943920713,39.51876209890101,26.451189943920713,39.51876209890101
+71,Ege,Çanakkale,Ayvacık,Sivrice Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ayvacık,canakkale,ayvacik,26.42949417727329,39.51232537362554,26.42949417727329,39.51232537362554
+72,Marmara,Çanakkale,Biga,Aksaz Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Biga,canakkale,biga,27.17367649867021,40.44549275564806,27.17367649867021,40.44549275564806
+73,Marmara,Çanakkale,Biga,Değirmencik Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Biga,canakkale,biga,27.322105596991232,40.3671205462614,27.322105596991232,40.3671205462614
+74,Marmara,Çanakkale,Biga,Karabiga Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Biga,canakkale,biga,27.30691704095127,40.385553188103025,27.30691704095127,40.385553188103025
+75,Marmara,Çanakkale,Biga,Kemer Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Biga,canakkale,biga,27.310324035678313,40.37149179128184,27.310324035678313,40.37149179128184
+76,Ege,Çanakkale,Bozcaada,Bozcaada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bozcaada,canakkale,bozcaada,26.5244442931816,40.21784374031116,26.5244442931816,40.21784374031116
+77,Marmara,Çanakkale,Eceabat,Eceabat (Yeni) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Eceabat,canakkale,eceabat,26.36695745972107,40.18011300292903,26.36695745972107,40.18011300292903
+78,Marmara,Çanakkale,Eceabat,Kilitbahir Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Eceabat,canakkale,eceabat,26.36317775821482,40.190068147413726,26.36317775821482,40.190068147413726
+79,Marmara,Çanakkale,Eceabat,Seddülbahir Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Eceabat,canakkale,eceabat,26.36427430242712,40.187180020917694,26.36427430242712,40.187180020917694
+80,Ege,Çanakkale,Ezine,Dalyan Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ezine,canakkale,ezine,26.331370180695433,40.02686468263885,26.331370180695433,40.02686468263885
+81,Ege,Çanakkale,Ezine,Yeniköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ezine,canakkale,ezine,26.305933502344303,40.016090837225306,26.305933502344303,40.016090837225306
+82,Marmara,Çanakkale,Gelibolu,Gelibolu Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Gelibolu,canakkale,gelibolu,26.68146981940059,40.41457732082034,26.68146981940059,40.41457732082034
+83,Ege,Çanakkale,Gelibolu,Güneyli Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Gelibolu,canakkale,gelibolu,26.65369464074408,40.40671635330392,26.65369464074408,40.40671635330392
+84,Ege,Çanakkale,Gökçeada,Kaleköy (Gökçeada) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gökçeada,canakkale,gokceada,26.013729981706202,40.163729587163736,26.013729981706202,40.163729587163736
+85,Marmara,Çanakkale,Lapseki,Lapseki Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Lapseki,canakkale,lapseki,26.688131299174167,40.34872920496588,26.688131299174167,40.34872920496588
+86,Marmara,Çanakkale,Lapseki,Şevketiye Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Lapseki,canakkale,lapseki,26.67031426031791,40.333996103049365,26.67031426031791,40.333996103049365
+87,Marmara,Çanakkale,Merkez,Çanakkale (Sandal Baseni) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,canakkale,merkez,26.40808248856276,40.12112646260321,26.40808248856276,40.12112646260321
+88,Marmara,Çanakkale,Merkez,Kumkale Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,canakkale,merkez,26.397262864673642,40.113803476856205,26.397262864673642,40.113803476856205
+89,Batı Karadeniz,Düzce,Akçakoca,Akçakoca Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Akçakoca,duzce,akcakoca,31.14867609625104,41.09074559577598,31.14867609625104,41.09074559577598
+90,Batı Karadeniz,Düzce,Akçakoca,Melenağzı Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Akçakoca,duzce,akcakoca,31.11900211699746,41.08763523681509,31.11900211699746,41.08763523681509
+91,Ege,Edirne,Enez,Enez Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Enez,edirne,enez,26.062284232799797,40.68239139569865,26.077284232799798,40.68239139569865
+92,Ege,Edirne,Enez,Sultaniçe Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Enez,edirne,enez,26.062284232799797,40.68239139569865,26.047284232799797,40.68239139569865
+93,Ege,Edirne,Keşan,İbrice Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Keşan,edirne,kesan,26.551632984346416,40.60195467227602,26.551632984346416,40.60195467227602
+94,Ege,Edirne,Keşan,Yayla Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Keşan,edirne,kesan,26.384708736197624,40.60564958144603,26.384708736197624,40.60564958144603
+95,Doğu Karadeniz,Giresun,Bulancak,Güzelyalı (Pazarsuyu ) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bulancak,giresun,bulancak,38.18597539295304,40.94113676191547,38.18597539295304,40.94113676191547
+96,Doğu Karadeniz,Giresun,Bulancak,İncüvez Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Bulancak,giresun,bulancak,38.34648074575595,40.91385624600717,38.34648074575595,40.91385624600717
+97,Doğu Karadeniz,Giresun,Bulancak,Küçüklü Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Bulancak,giresun,bulancak,38.29517934978339,40.93921361712469,38.29517934978339,40.93921361712469
+98,Doğu Karadeniz,Giresun,Bulancak,Talipli Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Bulancak,giresun,bulancak,38.32323830651741,40.925344571934275,38.32323830651741,40.925344571934275
+99,Doğu Karadeniz,Giresun,Bulancak,Yalıköy Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Bulancak,giresun,bulancak,38.33355870823651,40.920243380212064,38.33355870823651,40.920243380212064
+100,Doğu Karadeniz,Giresun,Espiye,Adabük Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Espiye,giresun,espiye,38.729757052142666,40.95960720865655,38.729757052142666,40.95960720865655
+101,Doğu Karadeniz,Giresun,Espiye,Esentepe Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Espiye,giresun,espiye,38.712059252960735,40.95057820012307,38.712059252960735,40.95057820012307
+102,Doğu Karadeniz,Giresun,Espiye,Yenimahalle (Gülburnu) Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Espiye,giresun,espiye,38.69579345389302,40.94990032922922,38.69579345389302,40.94990032922922
+103,Doğu Karadeniz,Giresun,Espiye,Zefre Çekek yeri,Çekek Yeri,Yok,False,True,Espiye,giresun,espiye,38.667361453283284,40.95255524996509,38.667361453283284,40.95255524996509
+104,Doğu Karadeniz,Giresun,Eynesil,Aralık Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Eynesil,giresun,eynesil,39.06598616395296,41.041828118431326,39.06598616395296,41.041828118431326
+105,Doğu Karadeniz,Giresun,Eynesil,Boztepe Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Eynesil,giresun,eynesil,39.16953992444675,41.07720128264015,39.16953992444675,41.07720128264015
+106,Doğu Karadeniz,Giresun,Eynesil,Merkez (Rüsumat 4) Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Eynesil,giresun,eynesil,39.03796804234083,41.0376736079705,39.03796804234083,41.0376736079705
+107,Doğu Karadeniz,Giresun,Görele,Çavuşlu Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Görele,giresun,gorele,38.899717487295796,41.02604010157861,38.899717487295796,41.02604010157861
+108,Doğu Karadeniz,Giresun,Görele,Görele Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Görele,giresun,gorele,38.887419245062425,41.019587273408355,38.887419245062425,41.019587273408355
+109,Doğu Karadeniz,Giresun,Görele,İsmailbeyli Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Görele,giresun,gorele,38.876730053057415,41.013978706104325,38.876730053057415,41.013978706104325
+110,Doğu Karadeniz,Giresun,Keşap,Keşap Merkez Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Keşap,giresun,kesap,38.540055600483946,40.92314435763663,38.540055600483946,40.92314435763663
+111,Doğu Karadeniz,Giresun,Keşap,Tepeköy Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Keşap,giresun,kesap,38.51406836930878,40.9157310088286,38.51406836930878,40.9157310088286
+112,Doğu Karadeniz,Giresun,Merkez,Aksu Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,giresun,merkez,38.44248294697257,40.91192248260864,38.44248294697257,40.91192248260864
+113,Doğu Karadeniz,Giresun,Merkez,Gemiler Çekeği (Üçkayalar) Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,giresun,merkez,38.40363578439234,40.919750873962215,38.40363578439234,40.919750873962215
+114,Doğu Karadeniz,Giresun,Merkez,Kumyalı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,giresun,merkez,38.564710922327016,40.93793715241751,38.564710922327016,40.93793715241751
+115,Doğu Karadeniz,Giresun,Piraziz,Piraziz Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Piraziz,giresun,piraziz,38.25116619399149,40.94234294706153,38.25116619399149,40.94234294706153
+116,Doğu Karadeniz,Giresun,Tirebolu,Halkova Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Tirebolu,giresun,tirebolu,38.775502402717414,40.98697958138603,38.775502402717414,40.98697958138603
+117,Doğu Karadeniz,Giresun,Tirebolu,Özlü Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Tirebolu,giresun,tirebolu,38.7710661994149,40.98432511686069,38.7710661994149,40.98432511686069
+118,Doğu Karadeniz,Giresun,Tirebolu,Tirebolu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Tirebolu,giresun,tirebolu,38.75341173488956,40.9737613201632,38.75341173488956,40.9737613201632
+119,Doğu Karadeniz,Giresun,Tirebolu,Yalıköy Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Tirebolu,giresun,tirebolu,38.75784793819207,40.97641578468854,38.75784793819207,40.97641578468854
+120,Akdeniz,Hatay,Arsuz,Işıklı-Konacık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Arsuz,hatay,arsuz,35.80155576140196,36.344742280867706,35.80155576140196,36.344742280867706
+121,Akdeniz,Hatay,Arsuz,Madenli Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Arsuz,hatay,arsuz,35.982562117975725,36.474415630797836,35.982562117975725,36.474415630797836
+122,Akdeniz,Hatay,Dörtyol,Dörtyol Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Dörtyol,hatay,dortyol,36.18727663665876,36.80602260318316,36.18727663665876,36.80602260318316
+123,Akdeniz,Hatay,İskenderun,İskenderun Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,İskenderun,hatay,iskenderun,36.186279056960714,36.595017339889154,36.186279056960714,36.595017339889154
+124,Akdeniz,Hatay,Samandağ,Çevlik Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Samandağ,hatay,samandag,35.919906766897896,36.11889321439416,35.919906766897896,36.11889321439416
+128,Marmara,İstanbul,Adalar,Burgazada Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Adalar,istanbul,adalar,29.118944874481233,40.927383816525605,29.118944874481233,40.927383816525605
+129,Marmara,İstanbul,Adalar,Büyükada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Adalar,istanbul,adalar,29.13795562659325,40.907594373258,29.13795562659325,40.907594373258
+130,Marmara,İstanbul,Adalar,Heybeliada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Adalar,istanbul,adalar,29.13481755289312,40.91086098423122,29.13481755289312,40.91086098423122
+131,Marmara,İstanbul,Adalar,Kınalıada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Adalar,istanbul,adalar,29.06741163847268,40.95743170023087,29.06741163847268,40.95743170023087
+132,Marmara,İstanbul,Adalar,Sivriada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Adalar,istanbul,adalar,29.12355746194754,40.922582294868626,29.12355746194754,40.922582294868626
+133,Batı Karadeniz,İstanbul,Arnavutköy,Karaburun Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Arnavutköy,istanbul,arnavutkoy,28.68210876716855,41.34800723907994,28.68210876716855,41.34800723907994
+134,Marmara,İstanbul,Avcılar,Ambarlı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Avcılar,istanbul,avcilar,28.714100095528295,40.97417632768689,28.714100095528295,40.97417632768689
+135,Marmara,İstanbul,Bakırköy,Bakırköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bakırköy,istanbul,bakirkoy,28.850942002421597,40.973871553856945,28.850942002421597,40.973871553856945
+136,Marmara,İstanbul,Bakırköy,Yeşilköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bakırköy,istanbul,bakirkoy,28.820984364066998,40.95555087119263,28.820984364066998,40.95555087119263
+137,Marmara,İstanbul,Beşiktaş,Kabataş Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Beşiktaş,istanbul,besiktas,29.004407552213745,41.03560706291047,29.004407552213745,41.03560706291047
+138,Marmara,İstanbul,Beşiktaş,Ortaköy Doğal Barınma Yeri,Doğal Barınma Yeri,Yok,False,True,Beşiktaş,istanbul,besiktas,28.369153338331568,41.0497751965444,28.369153338331568,41.0497751965444
+139,Batı Karadeniz,İstanbul,Beykoz,Anadolu Feneri Çekek Yeri,Çekek Yeri,UAB,False,False,Beykoz,istanbul,beykoz,29.167167703514597,41.22479087845813,29.167167703514597,41.22479087845813
+140,Marmara,İstanbul,Beykoz,Anadolu Hisarı-Göksu Deresi Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Beykoz,istanbul,beykoz,29.1531278048578,41.21739227129379,29.1531278048578,41.21739227129379
+141,Marmara,İstanbul,Beykoz,Anadolu Kavağı Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Beykoz,istanbul,beykoz,29.141803189019292,41.210766092945164,29.141803189019292,41.210766092945164
+142,Marmara,İstanbul,Beykoz,Beykoz Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Beykoz,istanbul,beykoz,29.08722709437269,41.126940227723026,29.08722709437269,41.126940227723026
+143,Marmara,İstanbul,Beykoz,Çubuklu Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Beykoz,istanbul,beykoz,29.080748893389657,41.11023705821962,29.080748893389657,41.11023705821962
+144,Batı Karadeniz,İstanbul,Beykoz,Paşabahçe Çekek Yeri,Çekek Yeri,UAB,False,False,Beykoz,istanbul,beykoz,29.09255229465708,41.11778187933659,29.09255229465708,41.11778187933659
+145,Marmara,İstanbul,Beykoz,Poyrazköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Beykoz,istanbul,beykoz,29.133616558795204,41.20597599033041,29.133616558795204,41.20597599033041
+146,Marmara,İstanbul,Beykoz,Riva Doğal Barınma Yeri,Doğal Barınma Yeri,Yok,False,True,Beykoz,istanbul,beykoz,29.2175503430556,41.230781780162026,29.2175503430556,41.230781780162026
+147,Marmara,İstanbul,Beylikdüzü,Gürpınar (Balık Hali) Balık Hali,Belirsiz / Diğer,Yok,False,True,Beylikdüzü,istanbul,beylikduzu,28.593073948992867,40.987151535529954,28.593073948992867,40.987151535529954
+148,Batı Karadeniz,İstanbul,Beyoğlu,Değirmen İskeleleri Çekek Yeri,Çekek Yeri,UAB,False,False,Beyoğlu,istanbul,beyoglu,28.983305859741964,41.02353457103612,28.983305859741964,41.02353457103612
+149,Marmara,İstanbul,Beyoğlu,Haliç (Beyoğlu) Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Beyoğlu,istanbul,beyoglu,28.949102422052878,41.002174595470564,28.949102422052878,41.002174595470564
+150,Marmara,İstanbul,Büyükçekmece,Büyükçekmece Barınma Yeri,Barınma Yeri,Yok,False,True,Büyükçekmece,istanbul,buyukcekmece,28.69467943025728,40.97133202306893,28.69467943025728,40.97133202306893
+151,Marmara,İstanbul,Büyükçekmece,Güzelce (Kumburgaz) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Büyükçekmece,istanbul,buyukcekmece,28.511373912011933,40.9979139907438,28.511373912011933,40.9979139907438
+152,Marmara,İstanbul,Büyükçekmece,Mimarsinan Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Büyükçekmece,istanbul,buyukcekmece,28.5623945218055,41.014732217177425,28.5623945218055,41.014732217177425
+153,Marmara,İstanbul,Eyüp,Haliç (Eyüp) Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Eyüpsultan,istanbul,eyupsultan,28.98449900168506,41.0254454372726,28.98449900168506,41.0254454372726
+154,Marmara,İstanbul,Fatih,Ahırkapı (Çatladıkapı) Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Fatih,istanbul,fatih,28.983260121219384,41.023375238633854,28.983260121219384,41.023375238633854
+155,Marmara,İstanbul,Fatih,Kocamustafapaşa (Samatya) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fatih,istanbul,fatih,28.93183373260831,40.998608287823856,28.93183373260831,40.998608287823856
+156,Marmara,İstanbul,Fatih,Kumkapı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fatih,istanbul,fatih,28.983974727059103,41.02483459960525,28.983974727059103,41.02483459960525
+157,Marmara,İstanbul,Fatih,Küçükmustafapaşa (Fatih Cibali) (Haliç) Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Fatih,istanbul,fatih,28.948358537360384,41.00211873621361,28.948358537360384,41.00211873621361
+158,Marmara,İstanbul,Fatih,Yenikapı Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Fatih,istanbul,fatih,28.947041835364086,41.00201986336963,28.947041835364086,41.00201986336963
+159,Marmara,İstanbul,Fatih,Yenikapı (Midyeciler) Barınma Yeri,Barınma Yeri,Yok,False,True,Fatih,istanbul,fatih,28.963311428239397,41.00324156799415,28.963311428239397,41.00324156799415
+160,Marmara,İstanbul,Kadıköy,Bostancı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kadıköy,istanbul,kadikoy,29.0949592931038,40.95066080074226,29.0949592931038,40.95066080074226
+161,Marmara,İstanbul,Kadıköy,Fenerbahçe Kalamış Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Kadıköy,istanbul,kadikoy,29.03382463397734,40.97126078837432,29.03382463397734,40.97126078837432
+162,Marmara,İstanbul,Kadıköy,Kurbağalı Dere Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Kadıköy,istanbul,kadikoy,29.03359308806829,40.976729958588315,29.03359308806829,40.976729958588315
+163,Marmara,İstanbul,Kartal,Kartal Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kartal,istanbul,kartal,29.072998463697587,40.95605852227562,29.072998463697587,40.95605852227562
+164,Marmara,İstanbul,Küçükçekmece,Menekşe Deresi Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Küçükçekmece,istanbul,kucukcekmece,28.850260891598957,40.97376552154348,28.850260891598957,40.97376552154348
+165,Marmara,İstanbul,Maltepe,Küçükyalı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Maltepe,istanbul,maltepe,29.103054556596422,40.943925010815704,29.103054556596422,40.943925010815704
+166,Marmara,İstanbul,Pendik,Pendik Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Pendik,istanbul,pendik,29.19708352185699,40.886118676478524,29.19708352185699,40.886118676478524
+167,Batı Karadeniz,İstanbul,Sarıyer,Büyükdere Barınma Yeri,Barınma Yeri,UAB,False,False,Sarıyer,istanbul,sariyer,29.04247566290985,41.15980881224975,29.04247566290985,41.15980881224975
+168,Batı Karadeniz,İstanbul,Sarıyer,Garipçe Köyü Barınma Yeri,Barınma Yeri,UAB,False,False,Sarıyer,istanbul,sariyer,29.109944400734772,41.21468004355071,29.109944400734772,41.21468004355071
+169,Marmara,İstanbul,Sarıyer,İstinye Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Sarıyer,istanbul,sariyer,29.068228494205947,41.11100397049285,29.068228494205947,41.11100397049285
+170,Marmara,İstanbul,Sarıyer,Kireçburnu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Sarıyer,istanbul,sariyer,29.047444231493806,41.14700818726811,29.047444231493806,41.14700818726811
+171,Marmara,İstanbul,Sarıyer,Rumeli Kavağı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Sarıyer,istanbul,sariyer,29.111517897882507,41.234545276208124,29.111517897882507,41.234545276208124
+172,Marmara,İstanbul,Sarıyer,Rumelifeneri Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Sarıyer,istanbul,sariyer,29.1012807609743,41.24332546024146,29.1012807609743,41.24332546024146
+173,Marmara,İstanbul,Sarıyer,Sarıyer Merkez (Taşiskele) Balıkçı Barınağı,Balıkçı Barınağı,TOB,False,False,Sarıyer,istanbul,sariyer,29.055489386156772,41.16956901876766,29.055489386156772,41.16956901876766
+174,Marmara,İstanbul,Sarıyer,Yeniköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Sarıyer,istanbul,sariyer,29.67903276983933,41.1611076182168,29.67903276983933,41.1611076182168
+175,Marmara,İstanbul,Sarıyer,Yeniköy -2 Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Sarıyer,istanbul,sariyer,29.650779994789787,41.16915832045807,29.650779994789787,41.16915832045807
+176,Marmara,İstanbul,Silivri,Selimpaşa Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Silivri,istanbul,silivri,28.36609061435579,41.05012704167909,28.36609061435579,41.05012704167909
+177,Marmara,İstanbul,Silivri,Silivri Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Silivri,istanbul,silivri,28.335218985861776,41.0536735683565,28.335218985861776,41.0536735683565
+178,Batı Karadeniz,İstanbul,Şile,Ağva Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Şile,istanbul,sile,29.857250081323812,41.14420757571931,29.857250081323812,41.14420757571931
+179,Batı Karadeniz,İstanbul,Şile,Şile Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Şile,istanbul,sile,29.58813521757432,41.17020916838096,29.58813521757432,41.17020916838096
+180,Marmara,İstanbul,Tuzla,Tuzla Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Tuzla,istanbul,tuzla,29.24036155007915,40.87410229737421,29.24036155007915,40.87410229737421
+181,Marmara,İstanbul,Üsküdar,Çengelköy Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Üsküdar,istanbul,uskudar,29.05234714980111,41.05130190081756,29.05234714980111,41.05130190081756
+182,Marmara,İstanbul,Üsküdar,Harem Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Üsküdar,istanbul,uskudar,29.028547525867584,41.03625583392011,29.028547525867584,41.03625583392011
+183,Marmara,İstanbul,Üsküdar,Salacak Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Üsküdar,istanbul,uskudar,29.007274901386385,41.01741423699737,29.007274901386385,41.01741423699737
+184,Marmara,İstanbul,Zeytinburnu,Zeytinburnu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Zeytinburnu,istanbul,zeytinburnu,28.947473017462013,41.00205224138715,28.947473017462013,41.00205224138715
+185,Ege,İzmir,Aliağa,Aliağa Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Aliağa,izmir,aliaga,26.96647819330691,38.804858464420015,26.96647819330691,38.804858464420015
+186,Ege,İzmir,Aliağa,Çakmaklı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Aliağa,izmir,aliaga,26.90128302933082,38.751318969729105,26.90128302933082,38.751318969729105
+187,Ege,İzmir,Aliağa,Şakran Dereağzı Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Aliağa,izmir,aliaga,27.055965766651582,38.913383355021,27.055965766651582,38.913383355021
+188,Ege,İzmir,Balçova,Bakü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Balçova,izmir,balcova,27.086889865321695,38.39874231085002,27.086889865321695,38.39874231085002
+189,Ege,İzmir,Çeşme,Alaçatı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.383852452271704,38.25921046840293,26.383852452271704,38.25921046840293
+190,Ege,İzmir,Çeşme,Çeşme Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.513055984246222,38.42635469474469,26.513055984246222,38.42635469474469
+191,Ege,İzmir,Çeşme,Çiftlikköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.503764535282432,38.43579841033534,26.503764535282432,38.43579841033534
+192,Ege,İzmir,Çeşme,Dalyanköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.501997987043875,38.41346861854099,26.501997987043875,38.41346861854099
+193,Ege,İzmir,Çeşme,Ildır Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.480145422061927,38.384465499575,26.480145422061927,38.384465499575
+194,Ege,İzmir,Çeşme,Ilıca (Yıldızburun) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çeşme,izmir,cesme,26.362442543742755,38.313929480391266,26.362442543742755,38.313929480391266
+195,Ege,İzmir,Dikili,Çandarlı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Dikili,izmir,dikili,26.93861559324695,38.93648389203756,26.93861559324695,38.93648389203756
+196,Ege,İzmir,Dikili,Dikili Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Dikili,izmir,dikili,26.88476872155306,39.07608323920229,26.88476872155306,39.07608323920229
+197,Ege,İzmir,Foça,Eski Foça Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Foça,izmir,foca,27.089178209537803,38.46151369190419,27.089178209537803,38.46151369190419
+198,Ege,İzmir,Foça,Eski Foça 2 Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Foça,izmir,foca,27.06969480022132,38.46718493804889,27.06969480022132,38.46718493804889
+199,Ege,İzmir,Foça,Yeni Foça Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Foça,izmir,foca,27.069970397111003,38.467182014262676,27.069970397111003,38.467182014262676
+200,Ege,İzmir,Güzelbahçe,Güzelbahçe 1 Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Güzelbahçe,izmir,guzelbahce,26.96761277115286,38.4456530531288,26.96761277115286,38.4456530531288
+201,Ege,İzmir,Güzelbahçe,Güzelbahçe 2 Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Güzelbahçe,izmir,guzelbahce,26.953190754340095,38.436066122711644,26.953190754340095,38.436066122711644
+202,Ege,İzmir,Güzelbahçe,Yalı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Güzelbahçe,izmir,guzelbahce,26.975862644900324,38.81235313170202,26.975862644900324,38.81235313170202
+203,Ege,İzmir,Karaburun,Ambarseki Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.619146848895397,38.534290717546725,26.619146848895397,38.534290717546725
+204,Ege,İzmir,Karaburun,Karaburun (Merkez İskele) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.605147746448733,38.54139428287121,26.605147746448733,38.54139428287121
+205,Ege,İzmir,Karaburun,Kaynarpınar (İnecik) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.59401005051969,38.54704588452908,26.59401005051969,38.54704588452908
+206,Ege,İzmir,Karaburun,Mordoğan 1 Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.62989032204573,38.51298360295972,26.62989032204573,38.51298360295972
+207,Ege,İzmir,Karaburun,Mordoğan 2 Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.627989368495005,38.52029215836552,26.627989368495005,38.52029215836552
+208,Ege,İzmir,Karaburun,Saipköy (Saipaltı) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.601125678325843,38.54343520112003,26.601125678325843,38.54343520112003
+209,Ege,İzmir,Karaburun,Yeniliman Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karaburun,izmir,karaburun,26.616661074090384,38.535552074392754,26.616661074090384,38.535552074392754
+210,Ege,İzmir,Karşıyaka,Bostanlı/Karşıyaka Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karşıyaka,izmir,karsiyaka,27.09805737356483,38.45650479909189,27.09805737356483,38.45650479909189
+211,Ege,İzmir,Karşıyaka,Şemikler Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karşıyaka,izmir,karsiyaka,27.087594050338552,38.462407344009556,27.087594050338552,38.462407344009556
+212,Ege,İzmir,Menderes,Gümüldür Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Menderes,izmir,menderes,27.001918108496092,38.06741984453745,27.001918108496092,38.06741984453745
+213,Ege,İzmir,Menderes,Özdere Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Menderes,izmir,menderes,27.11705507999511,38.00240873109077,27.11705507999511,38.00240873109077
+214,Ege,İzmir,Narlıdere,Narlıdere (Sahil evleri) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Narlıdere,izmir,narlidere,26.96393686295736,38.40219988016779,26.96393686295736,38.40219988016779
+215,Ege,İzmir,Seferihisar,Sığacık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Seferihisar,izmir,seferihisar,26.781345328573426,38.20030245001294,26.781345328573426,38.20030245001294
+216,Ege,İzmir,Urla,Balıklıova Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Urla,izmir,urla,26.589290154919624,38.42834310654374,26.589290154919624,38.42834310654374
+217,Ege,İzmir,Urla,Çeşmealtı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Urla,izmir,urla,26.84215361548975,38.36555088584422,26.84215361548975,38.36555088584422
+218,Ege,İzmir,Urla,İskele (Urla) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Urla,izmir,urla,26.77173500166741,38.3653918280425,26.77173500166741,38.3653918280425
+219,Ege,İzmir,Urla,Kalabak Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Urla,izmir,urla,26.80330833947569,38.356817984217955,26.80330833947569,38.356817984217955
+220,Ege,İzmir,Urla,Özbek Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Urla,izmir,urla,26.681451599902477,38.36207621144266,26.681451599902477,38.36207621144266
+221,Batı Karadeniz,Kastamonu,Abana,Abana Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Abana,kastamonu,abana,33.88952679143787,41.981370547388764,33.88952679143787,41.981370547388764
+222,Batı Karadeniz,Kastamonu,Bozkurt,İlişi Yakaören Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bozkurt,kastamonu,bozkurt,33.84901243091391,41.98118718651851,33.84901243091391,41.98118718651851
+223,Batı Karadeniz,Kastamonu,Cide,Cide Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Cide,kastamonu,cide,33.18991905804621,41.96341794054769,33.18991905804621,41.96341794054769
+224,Batı Karadeniz,Kastamonu,Cide,İlyasbey Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Cide,kastamonu,cide,33.36510986107404,42.017312362179055,33.36510986107404,42.017312362179055
+225,Batı Karadeniz,Kastamonu,Cide,Şehit Onur Ensar (Denizkonak) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Cide,kastamonu,cide,33.162679052358044,41.954159976285766,33.162679052358044,41.954159976285766
+226,Batı Karadeniz,Kastamonu,Çatalzeytin,Ginolu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çatalzeytin,kastamonu,catalzeytin,34.22305731188402,41.95566005836102,34.22305731188402,41.95566005836102
+227,Batı Karadeniz,Kastamonu,Doğanyurt,Doğanyurt Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Doğanyurt,kastamonu,doganyurt,33.49787034035344,42.00168032856282,33.49787034035344,42.00168032856282
+228,Batı Karadeniz,Kastamonu,İnebolu,Gemiciler (Evreniye) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,İnebolu,kastamonu,inebolu,33.63667338941151,41.98533680569601,33.63667338941151,41.98533680569601
+229,Batı Karadeniz,Kastamonu,İnebolu,Özlüce Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,İnebolu,kastamonu,inebolu,33.604387937276904,41.98913829297462,33.604387937276904,41.98913829297462
+230,Batı Karadeniz,Kırklareli,Demirköy,Beğendik Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Demirköy,kirklareli,demirkoy,28.045887677279918,41.930201918433895,28.045887677279918,41.930201918433895
+231,Batı Karadeniz,Kırklareli,Demirköy,İğneada Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Demirköy,kirklareli,demirkoy,27.988028258461572,41.879971814866344,27.988028258461572,41.879971814866344
+232,Batı Karadeniz,Kırklareli,Vize,Kıyıköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Vize,kirklareli,vize,28.094370383971967,41.63537279745273,28.094370383971967,41.63537279745273
+233,Marmara,Kocaeli,Başiskele,Bahçecik Çekek Yeri,Çekek Yeri,TOB,False,False,Başiskele,kocaeli,basiskele,29.91679729420503,40.714148142984094,29.91679729420503,40.714148142984094
+234,Marmara,Kocaeli,Derince,60 Evler Çekek Yeri,Çekek Yeri,TOB,False,False,Derince,kocaeli,derince,29.869443126248576,40.749086019674856,29.869443126248576,40.749086019674856
+235,Marmara,Kocaeli,Dilovası,Tavşancıl Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Dilovası,kocaeli,dilovasi,29.57533955087292,40.76771418054008,29.57533955087292,40.76771418054008
+236,Marmara,Kocaeli,Gebze,Darıca Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Gebze,kocaeli,gebze,29.531155596374656,40.77285482211431,29.531155596374656,40.77285482211431
+237,Marmara,Kocaeli,Gebze,Eskihisar Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gebze,kocaeli,gebze,29.4291168563386,40.76897017678022,29.4291168563386,40.76897017678022
+238,Marmara,Kocaeli,Gölcük,Kavaklı Barınma Yeri,Barınma Yeri,Yok,False,True,Gölcük,kocaeli,golcuk,29.8368549224746,40.72626417037276,29.8368549224746,40.72626417037276
+239,Batı Karadeniz,Kocaeli,Kandıra,Bağırganlı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kandıra,kocaeli,kandira,30.01046614603924,41.13982339590079,30.01046614603924,41.13982339590079
+240,Batı Karadeniz,Kocaeli,Kandıra,Kefken Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kandıra,kocaeli,kandira,30.225413489235212,41.167950168987005,30.225413489235212,41.167950168987005
+241,Batı Karadeniz,Kocaeli,Kandıra,Kefken Adası Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Kandıra,kocaeli,kandira,30.210229075912014,41.16193464024648,30.210229075912014,41.16193464024648
+242,Batı Karadeniz,Kocaeli,Kandıra,Kerpe Çekek Yeri,Çekek Yeri,Yok,False,True,Kandıra,kocaeli,kandira,30.195764105484972,41.162054483946534,30.195764105484972,41.162054483946534
+243,Marmara,Kocaeli,Karamürsel,Ereğli Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karamürsel,kocaeli,karamursel,29.66158431616984,40.703865711323104,29.66158431616984,40.703865711323104
+244,Marmara,Kocaeli,Karamürsel,Kayacık / Karamürsel Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karamürsel,kocaeli,karamursel,29.60671688305513,40.694251117559666,29.60671688305513,40.694251117559666
+245,Marmara,Kocaeli,Körfez,Hereke Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Körfez,kocaeli,korfez,29.643150317649077,40.7800249707054,29.643150317649077,40.7800249707054
+246,Marmara,Kocaeli,Körfez,Tütünçiftlik Çekek Yeri,Çekek Yeri,TOB,False,False,Körfez,kocaeli,korfez,29.74491945768888,40.763602882421495,29.74491945768888,40.763602882421495
+247,Marmara,Kocaeli,Körfez,Yarımca Çekek Yeri,Çekek Yeri,TOB,False,False,Körfez,kocaeli,korfez,29.719143747048523,40.77293444769149,29.719143747048523,40.77293444769149
+249,Akdeniz,Mersin,Akdeniz,Çamlıbel (Hamidiye) Yat Limanı,Belirsiz / Diğer,"TOB, UAB",True,False,Akdeniz,mersin,akdeniz,34.69389146528436,36.80835093593245,34.69389146528436,36.80835093593245
+250,Akdeniz,Mersin,Akdeniz,Karaduvar Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Akdeniz,mersin,akdeniz,34.691515534601685,36.808308569538426,34.691515534601685,36.808308569538426
+251,Akdeniz,Mersin,Aydıncık,Aydıncık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Aydıncık,mersin,aydincik,33.81578669696772,36.272707990052616,33.81578669696772,36.272707990052616
+252,Akdeniz,Mersin,Bozyazı,Bozyazı/Yoğunduvar Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bozyazı,mersin,bozyazi,33.158627040955906,36.13716328163226,33.158627040955906,36.13716328163226
+253,Akdeniz,Mersin,Erdemli,Erdemli Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Erdemli,mersin,erdemli,34.28226291976634,36.587647483662245,34.28226291976634,36.587647483662245
+254,Akdeniz,Mersin,Silifke,Taşucu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Silifke,mersin,silifke,33.87863603774992,36.31289352465623,33.87863603774992,36.31289352465623
+255,Akdeniz,Mersin,Silifke,Yeşilovacık (Hacıisaklı) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Silifke,mersin,silifke,33.66039120965771,36.18632589143351,33.66039120965771,36.18632589143351
+256,Ege,Muğla,Bodrum,Akyarlar Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.28940511890311,36.959763492344884,27.28940511890311,36.959763492344884
+257,Ege,Muğla,Bodrum,Gündoğan Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.34757085230053,37.13899857455523,27.34757085230053,37.13899857455523
+258,Ege,Muğla,Bodrum,Güvercinlik Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.556614576906878,37.147220108776416,27.556614576906878,37.147220108776416
+259,Ege,Muğla,Bodrum,Kargıcık Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Bodrum,mugla,bodrum,27.555831395434495,37.145842262350875,27.555831395434495,37.145842262350875
+260,Ege,Muğla,Bodrum,Torba Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.46922602516017,37.08317267890326,27.46922602516017,37.08317267890326
+261,Ege,Muğla,Bodrum,Turgutreis Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.255292273913604,37.00526807548679,27.255292273913604,37.00526807548679
+262,Ege,Muğla,Bodrum,Türkbükü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.378622377758855,37.13217333581161,27.378622377758855,37.13217333581161
+263,Ege,Muğla,Bodrum,Yalıkavak Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Bodrum,mugla,bodrum,27.27806567974391,37.107149942909714,27.27806567974391,37.107149942909714
+264,Ege,Muğla,Datça,Datça Merkez Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Datça,mugla,datca,27.6883680488409,36.725927459028426,27.6883680488409,36.725927459028426
+265,Ege,Muğla,Datça,Hayıtbükü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Datça,mugla,datca,27.61266439092275,36.76833326865956,27.61266439092275,36.76833326865956
+266,Ege,Muğla,Datça,Karaköy (Gerince) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Datça,mugla,datca,27.611331750733243,36.76628576629711,27.611331750733243,36.76628576629711
+267,Ege,Muğla,Datça,Palamutbükü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Datça,mugla,datca,27.590255158386384,36.76189499480157,27.590255158386384,36.76189499480157
+268,Ege,Muğla,Fethiye,Fethiye - Merkez Barınma Yeri,Barınma Yeri,Yok,False,True,Fethiye,mugla,fethiye,28.971245390709534,36.728436560703685,28.971245390709534,36.728436560703685
+269,Ege,Muğla,Fethiye,Göcek Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Fethiye,mugla,fethiye,28.93681584034337,36.74763406370395,28.93681584034337,36.74763406370395
+270,Ege,Muğla,Marmaris,Bozburun Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Marmaris,mugla,marmaris,28.040714804592405,36.70379872371443,28.040714804592405,36.70379872371443
+271,Ege,Muğla,Marmaris,Köyceğiz - Ekincik Barınma Yeri,Barınma Yeri,Yok,False,True,Marmaris,mugla,marmaris,28.168087953933547,36.91869971960331,28.168087953933547,36.91869971960331
+272,Ege,Muğla,Marmaris,Marmaris - Merkez Barınma Yeri,Barınma Yeri,Yok,False,True,Marmaris,mugla,marmaris,28.161096334911345,36.91786291945722,28.161096334911345,36.91786291945722
+273,Ege,Muğla,Menteşe,Akbük Barınma Yeri,Barınma Yeri,Yok,False,True,Menteşe,mugla,mentese,28.322218538065616,37.05033343760849,28.322218538065616,37.05033343760849
+274,Ege,Muğla,Milas,Boğaziçi Doğal Barınma Yeri,Doğal Barınma Yeri,Yok,False,True,Milas,mugla,milas,27.574218673590075,37.21262571746141,27.574218673590075,37.21262571746141
+275,Ege,Muğla,Milas,Güllük Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Milas,mugla,milas,27.59111538654902,37.2415856292284,27.59111538654902,37.2415856292284
+276,Ege,Muğla,Milas,Kıyıkışlacık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Milas,mugla,milas,27.581548918625273,37.278618201940894,27.581548918625273,37.278618201940894
+277,Ege,Muğla,Milas,Ören Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Milas,mugla,milas,27.97167051807102,37.02860061042011,27.97167051807102,37.02860061042011
+278,Ege,Muğla,Ula,Akyaka Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Ula,mugla,ula,28.93224412677078,36.74778476031598,28.93224412677078,36.74778476031598
+279,Doğu Karadeniz,Ordu,Altınordu,Kumbaşı (Efirli) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Altınordu,ordu,altinordu,37.840160309856074,41.020137076580426,37.840160309856074,41.020137076580426
+280,Doğu Karadeniz,Ordu,Fatsa,Bolaman Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fatsa,ordu,fatsa,37.59030572597476,41.04117075401367,37.59030572597476,41.04117075401367
+281,Doğu Karadeniz,Ordu,Fatsa,Fatsa Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fatsa,ordu,fatsa,37.50508644646859,41.03925084607979,37.50508644646859,41.03925084607979
+282,Doğu Karadeniz,Ordu,Fatsa,Kurtuluş Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Fatsa,ordu,fatsa,37.71307589618845,41.11434671473386,37.71307589618845,41.11434671473386
+283,Doğu Karadeniz,Ordu,Fatsa,Yalıköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fatsa,ordu,fatsa,37.6120738221857,41.05186881015984,37.6120738221857,41.05186881015984
+284,Doğu Karadeniz,Ordu,Gülyalı,Gülyalı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gülyalı,ordu,gulyali,38.03155558274422,40.9684956163597,38.03155558274422,40.9684956163597
+285,Doğu Karadeniz,Ordu,Perşembe,Kacalı Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Perşembe,ordu,persembe,37.77977277054052,41.05864493887683,37.77977277054052,41.05864493887683
+286,Doğu Karadeniz,Ordu,Perşembe,Kışlaönü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Perşembe,ordu,persembe,37.626022647790265,41.06865843405568,37.626022647790265,41.06865843405568
+287,Doğu Karadeniz,Ordu,Perşembe,Medreseönü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Perşembe,ordu,persembe,37.63404325810698,41.0783125106389,37.63404325810698,41.0783125106389
+288,Doğu Karadeniz,Ordu,Perşembe,Mersin Köyü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Perşembe,ordu,persembe,37.76122521652502,41.116148181667775,37.76122521652502,41.116148181667775
+289,Doğu Karadeniz,Ordu,Perşembe,Okçulu Balıkçı Barınağı,Balıkçı Barınağı,Yok,False,True,Perşembe,ordu,persembe,37.649005405973,41.09632182858909,37.649005405973,41.09632182858909
+290,Doğu Karadeniz,Ordu,Ünye,Ünye Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ünye,ordu,unye,37.312163871172366,41.12072878228977,37.312163871172366,41.12072878228977
+291,Doğu Karadeniz,Rize,Ardeşen,Ardeşen Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ardeşen,rize,ardesen,40.95938062501971,41.18829861580919,40.95938062501971,41.18829861580919
+292,Doğu Karadeniz,Rize,Ardeşen,Işıklı Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Ardeşen,rize,ardesen,41.04608966484572,41.21234244168009,41.04608966484572,41.21234244168009
+293,Doğu Karadeniz,Rize,Ardeşen,Taşbaşı Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Ardeşen,rize,ardesen,41.03342431863776,41.20770026001756,41.03342431863776,41.20770026001756
+294,Doğu Karadeniz,Rize,Ardeşen,Yeniyol Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Ardeşen,rize,ardesen,40.9301690449834,41.183499554143445,40.9301690449834,41.183499554143445
+295,Doğu Karadeniz,Rize,Çayeli,Büyükcaferpaşa Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Çayeli,rize,cayeli,40.69645717058533,41.079229842690594,40.69645717058533,41.079229842690594
+296,Doğu Karadeniz,Rize,Çayeli,Hamuda (Limanköy) Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Çayeli,rize,cayeli,40.73778073697996,41.10296955345723,40.73778073697996,41.10296955345723
+297,Doğu Karadeniz,Rize,Çayeli,Limaniçi (Yenipazar) Balıkçı Barınağı,Balıkçı Barınağı,TOB,False,False,Çayeli,rize,cayeli,40.71767769927682,41.08650826816615,40.71767769927682,41.08650826816615
+298,Doğu Karadeniz,Rize,Çayeli,Taşhane Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Çayeli,rize,cayeli,40.74197527514592,41.10679570242637,40.74197527514592,41.10679570242637
+299,Doğu Karadeniz,Rize,Derepazarı,Eriklimanı Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Derepazarı,rize,derepazari,40.433815253600486,41.032626177378134,40.433815253600486,41.032626177378134
+300,Doğu Karadeniz,Rize,Derepazarı,Sandıktaş Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Derepazarı,rize,derepazari,40.477144967513325,41.0384543184025,40.477144967513325,41.0384543184025
+301,Doğu Karadeniz,Rize,Derepazarı,Tersane Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Derepazarı,rize,derepazari,40.41656384014263,41.03030574501377,40.41656384014263,41.03030574501377
+302,Doğu Karadeniz,Rize,Derepazarı,Uzunkaya Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Derepazarı,rize,derepazari,40.44767808466749,41.03449082237943,40.44767808466749,41.03449082237943
+303,Doğu Karadeniz,Rize,Derepazarı,Yanıktaş Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Derepazarı,rize,derepazari,40.40490841389989,41.0287380109646,40.40490841389989,41.0287380109646
+304,Doğu Karadeniz,Rize,Fındıklı,Aksu Mahallesi Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Fındıklı,rize,findikli,41.1394268653455,41.27278456201362,41.1394268653455,41.27278456201362
+305,Doğu Karadeniz,Rize,Fındıklı,Kıyıcık Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Fındıklı,rize,findikli,41.01612355743884,41.20135907715,41.01612355743884,41.20135907715
+306,Doğu Karadeniz,Rize,Fındıklı,Sümer Çekek Yeri,Çekek Yeri,Yok,False,True,Fındıklı,rize,findikli,41.13998569828618,41.27319279809799,41.13998569828618,41.27319279809799
+307,Doğu Karadeniz,Rize,Fındıklı,Torosi (Liman Mah.) Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Fındıklı,rize,findikli,41.0004856875079,41.195627387558375,41.0004856875079,41.195627387558375
+308,Doğu Karadeniz,Rize,Fındıklı,Yeniköy (Sahil Mah.) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Fındıklı,rize,findikli,40.993689291247584,41.19393505877777,40.993689291247584,41.19393505877777
+309,Doğu Karadeniz,Rize,İyidere,İyidere Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,İyidere,rize,iyidere,40.38493916839165,41.02447630928136,40.38493916839165,41.02447630928136
+310,Doğu Karadeniz,Rize,İyidere,Sarayköy Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,İyidere,rize,iyidere,40.39581987703025,41.02751554098273,40.39581987703025,41.02751554098273
+311,Doğu Karadeniz,Rize,İyidere,Sarayköy Tahkimat Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,İyidere,rize,iyidere,40.37027639910535,41.01596702037437,40.37027639910535,41.01596702037437
+312,Doğu Karadeniz,Rize,İyidere,Yalıköy (Okul Önü) Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,İyidere,rize,iyidere,40.386771693830845,41.02553978426941,40.386771693830845,41.02553978426941
+313,Doğu Karadeniz,Rize,İyidere,Yalıköy Tahkimat Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,İyidere,rize,iyidere,40.3643298136837,41.012516020609254,40.3643298136837,41.012516020609254
+314,Doğu Karadeniz,Rize,Merkez,Alipaşa Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,rize,merkez,40.45870135023887,41.03597352652164,40.45870135023887,41.03597352652164
+315,Doğu Karadeniz,Rize,Merkez,Bozukkale Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.729161466390565,41.0951072782852,40.729161466390565,41.0951072782852
+316,Doğu Karadeniz,Rize,Merkez,Cumhuriyet Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,rize,merkez,40.73153556175635,41.09727286652806,40.73153556175635,41.09727286652806
+317,Doğu Karadeniz,Rize,Merkez,Çiftekavak Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,rize,merkez,41.00373960068072,41.19682003210313,41.00373960068072,41.19682003210313
+318,Doğu Karadeniz,Rize,Merkez,Engindere Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,rize,merkez,40.5813017916468,41.039732719131635,40.5813017916468,41.039732719131635
+319,Doğu Karadeniz,Rize,Merkez,Fener (Boğaz) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.49417883325152,41.04074548911994,40.49417883325152,41.04074548911994
+320,Doğu Karadeniz,Rize,Merkez,Gülbahar Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Merkez,rize,merkez,40.54514255721258,41.02931458546977,40.54514255721258,41.02931458546977
+321,Doğu Karadeniz,Rize,Merkez,Gündoğdu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.723348063871704,41.08980444322333,40.723348063871704,41.08980444322333
+322,Doğu Karadeniz,Rize,Merkez,Gündoğdu Balıkçı Köyü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.70755285538763,41.083035549707034,40.70755285538763,41.083035549707034
+323,Doğu Karadeniz,Rize,Merkez,İslampaşa Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.56647421589777,41.03464701148309,40.56647421589777,41.03464701148309
+324,Doğu Karadeniz,Rize,Merkez,Merkez Motorcu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.71027683263861,41.08396984619449,40.71027683263861,41.08396984619449
+325,Doğu Karadeniz,Rize,Merkez,Müftü Mahallesi Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,41.00817397660458,41.19844534721577,41.00817397660458,41.19844534721577
+326,Doğu Karadeniz,Rize,Merkez,Söğütlü Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,rize,merkez,40.72091970041895,41.087730431701694,40.72091970041895,41.087730431701694
+327,Doğu Karadeniz,Rize,Pazar,Kirazlık Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Pazar,rize,pazar,41.05620282560015,41.21604918041694,41.05620282560015,41.21604918041694
+328,Doğu Karadeniz,Rize,Pazar,Pazar Balıkçı Köyü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Pazar,rize,pazar,40.887468217347546,41.17648439423947,40.887468217347546,41.17648439423947
+329,Doğu Karadeniz,Rize,Pazar,Soğuksu Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Pazar,rize,pazar,40.890815787472725,41.177034354065036,40.890815787472725,41.177034354065036
+330,Batı Karadeniz,Sakarya,Karasu,Yeni Mahalle (Sakarya Nehri Ağzı) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Karasu,sakarya,karasu,30.628372908902247,41.13330873762909,30.628372908902247,41.13330873762909
+331,Doğu Karadeniz,Samsun,Alaçam,Göçkün Doyran Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Alaçam,samsun,alacam,35.631128505590375,41.63828192806409,35.631128505590375,41.63828192806409
+332,Doğu Karadeniz,Samsun,Canik,Canik (Samsun) Balıkçı Barınağı,Balıkçı Barınağı,TOB,False,False,Canik,samsun,canik,36.38709721622374,41.25578706575576,36.38709721622374,41.25578706575576
+333,Doğu Karadeniz,Samsun,Ondokuz,Mayıs Dereköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,19 Mayıs,samsun,19mayis,36.13053166480211,41.476303268776455,36.13053166480211,41.476303268776455
+334,Doğu Karadeniz,Samsun,Terme,Terme Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Terme,samsun,terme,36.88261310488008,41.332097254308586,36.88261310488008,41.332097254308586
+335,Doğu Karadeniz,Samsun,Yakakent,Yakakent Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Yakakent,samsun,yakakent,35.57098403607164,41.63187206764466,35.57098403607164,41.63187206764466
+336,Batı Karadeniz,Sinop,Ayancık,Denizciler Mahallesi Barınma yeri,Barınma Yeri,"TOB, UAB",True,False,Ayancık,sinop,ayancik,34.59962869156635,41.94476025719869,34.59962869156635,41.94476025719869
+337,Batı Karadeniz,Sinop,Ayancık,Gebelit (Tarakçı) Doğal Barınma Yeri,Doğal Barınma Yeri,Yok,False,True,Ayancık,sinop,ayancik,34.58835860513572,41.94641113960548,34.58835860513572,41.94641113960548
+338,Batı Karadeniz,Sinop,Ayancık,Ustaburnu (İstefan Limanı) Liman,Belirsiz / Diğer,"TOB, UAB",True,False,Ayancık,sinop,ayancik,34.665995632293736,41.94541534768578,34.665995632293736,41.94541534768578
+339,Batı Karadeniz,Sinop,Gerze,Gerze Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Gerze,sinop,gerze,35.147959865911325,41.8454908630503,35.147959865911325,41.8454908630503
+340,Batı Karadeniz,Sinop,Gerze,Töngel Barınma yeri,Barınma Yeri,Yok,False,True,Gerze,sinop,gerze,35.201967530863115,41.80652873917115,35.201967530863115,41.80652873917115
+341,Batı Karadeniz,Sinop,Merkez,Akliman Doğal Barınma Yeri,Doğal Barınma Yeri,"TOB, UAB",True,False,Merkez,sinop,merkez,35.045693803430225,42.04255265514537,35.045693803430225,42.04255265514537
+342,Batı Karadeniz,Sinop,Merkez,Demirciköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,sinop,merkez,34.84127037114118,41.98191540433728,34.84127037114118,41.98191540433728
+343,Batı Karadeniz,Sinop,Merkez,Merkez (Küçük Tekneler) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,sinop,merkez,34.84288644164546,41.98294086838505,34.84288644164546,41.98294086838505
+344,Batı Karadeniz,Sinop,Türkeli,Güllüsu Barınma yeri,Barınma Yeri,"TOB, UAB",True,False,Türkeli,sinop,turkeli,34.33986000508556,41.94691627255895,34.33986000508556,41.94691627255895
+345,Batı Karadeniz,Sinop,Türkeli,Helaldı (Güzelkent) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Türkeli,sinop,turkeli,34.5431448506632,41.95303421142158,34.5431448506632,41.95303421142158
+346,Batı Karadeniz,Sinop,Türkeli,Türkeli Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Türkeli,sinop,turkeli,34.51377505119679,41.95733640426886,34.51377505119679,41.95733640426886
+347,Marmara,Tekirdağ,Marmara,Ereğlisi Marmara Ereğlisi Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Marmaraereğlisi,tekirdag,marmaraereglisi,27.859447221961247,40.978786779288164,27.859447221961247,40.978786779288164
+348,Marmara,Tekirdağ,Süleymanpaşa,Barbaros Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Süleymanpaşa,tekirdag,suleymanpasa,27.46860553277618,40.90534358531728,27.46860553277618,40.90534358531728
+349,Marmara,Tekirdağ,Süleymanpaşa,Kumbağ Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Süleymanpaşa,tekirdag,suleymanpasa,27.45873589723464,40.86852041513163,27.45873589723464,40.86852041513163
+350,Marmara,Tekirdağ,Süleymanpaşa,Tekirdağ Merkez (Süleymanpaşa) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Süleymanpaşa,tekirdag,suleymanpasa,27.480223858910882,40.92413184919995,27.480223858910882,40.92413184919995
+351,Marmara,Tekirdağ,Şarköy,Hoşköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Şarköy,tekirdag,sarkoy,27.31521561255745,40.713157838315425,27.31521561255745,40.713157838315425
+352,Marmara,Tekirdağ,Şarköy,Mürefte Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Şarköy,tekirdag,sarkoy,27.24494849764555,40.66546912679673,27.24494849764555,40.66546912679673
+353,Marmara,Tekirdağ,Şarköy,Şarköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Şarköy,tekirdag,sarkoy,27.23714995464767,40.66099855637129,27.23714995464767,40.66099855637129
+354,Doğu Karadeniz,Trabzon,Akçaabat,Akçaabat Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Akçaabat,trabzon,akcaabat,39.57516564915437,41.022745984700244,39.57516564915437,41.022745984700244
+355,Doğu Karadeniz,Trabzon,Akçaabat,Akçaabat Darıca Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Akçaabat,trabzon,akcaabat,39.54058231021366,41.04702596062807,39.54058231021366,41.04702596062807
+356,Doğu Karadeniz,Trabzon,Akçaabat,Akçaabat Mersin Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Akçaabat,trabzon,akcaabat,39.470533188559536,41.0957506905235,39.470533188559536,41.0957506905235
+357,Doğu Karadeniz,Trabzon,Akçaabat,Akçaabat Söğütlü Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Akçaabat,trabzon,akcaabat,39.61300449653293,41.00947572738752,39.61300449653293,41.00947572738752
+358,Doğu Karadeniz,Trabzon,Akçaabat,Akçakale Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Akçaabat,trabzon,akcaabat,39.502490492068766,41.078616031461145,39.502490492068766,41.078616031461145
+359,Doğu Karadeniz,Trabzon,Araklı,Araklı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Araklı,trabzon,arakli,39.953445527777696,40.956776631993854,39.953445527777696,40.956776631993854
+360,Doğu Karadeniz,Trabzon,Araklı,Araklı Yalıboyu Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Araklı,trabzon,arakli,40.0108856753798,40.958750082403476,40.0108856753798,40.958750082403476
+361,Doğu Karadeniz,Trabzon,Araklı,Kalecik Çekek yeri,Çekek Yeri,"TOB, UAB",True,False,Araklı,trabzon,arakli,39.98514204347845,40.95786561773823,39.98514204347845,40.95786561773823
+362,Doğu Karadeniz,Trabzon,Arsin,Arsin Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Arsin,trabzon,arsin,39.90395839400236,40.95507642040845,39.90395839400236,40.95507642040845
+363,Doğu Karadeniz,Trabzon,Beşikdüzü,Adacık Mahallesi Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Beşikdüzü,trabzon,besikduzu,39.50469223959439,41.07679009183215,39.50469223959439,41.07679009183215
+364,Doğu Karadeniz,Trabzon,Beşikdüzü,Beşikdüzü Barınma Yeri,Barınma Yeri,"TOB, UAB",True,False,Beşikdüzü,trabzon,besikduzu,39.2969914336857,41.05528010358733,39.2969914336857,41.05528010358733
+365,Doğu Karadeniz,Trabzon,Beşikdüzü,Beşikdüzü (Çeşmeönü) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Beşikdüzü,trabzon,besikduzu,39.2743540551796,41.05213913893321,39.2743540551796,41.05213913893321
+366,Doğu Karadeniz,Trabzon,Çarşıbaşı,Çarşıbaşı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çarşıbaşı,trabzon,carsibasi,39.55952348482571,41.031317782945905,39.55952348482571,41.031317782945905
+367,Doğu Karadeniz,Trabzon,Çarşıbaşı,Fenerköyü (Yoroz) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çarşıbaşı,trabzon,carsibasi,39.539809144576914,41.047667157567986,39.539809144576914,41.047667157567986
+368,Doğu Karadeniz,Trabzon,Çarşıbaşı,Keremköy Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Çarşıbaşı,trabzon,carsibasi,39.55257528846003,41.037080018146106,39.55257528846003,41.037080018146106
+369,Doğu Karadeniz,Trabzon,Of,Eski Pazar Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Of,trabzon,of,40.23065372338156,40.928577501461675,40.23065372338156,40.928577501461675
+370,Doğu Karadeniz,Trabzon,Of,Of Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Of,trabzon,of,40.23824397105359,40.93331580654811,40.23824397105359,40.93331580654811
+371,Doğu Karadeniz,Trabzon,Ortahisar,100. Yıl (Motorcular) Balıkçı Barınağı,Balıkçı Barınağı,TOB,False,False,Ortahisar,trabzon,ortahisar,39.76182474330594,41.005470506160826,39.76182474330594,41.005470506160826
+372,Doğu Karadeniz,Trabzon,Ortahisar,Faroz Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ortahisar,trabzon,ortahisar,39.73788876941965,41.00916997378514,39.73788876941965,41.00916997378514
+373,Doğu Karadeniz,Trabzon,Ortahisar,Ganita Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Ortahisar,trabzon,ortahisar,39.74181058930593,41.008563829837684,39.74181058930593,41.008563829837684
+374,Doğu Karadeniz,Trabzon,Ortahisar,Yalıncak Çekek Yeri,Çekek Yeri,TOB,False,False,Ortahisar,trabzon,ortahisar,39.8233759998934,40.980121385473716,39.8233759998934,40.980121385473716
+375,Doğu Karadeniz,Trabzon,Sürmene,Sürmene Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Sürmene,trabzon,surmene,39.9656177870809,40.95719482991135,39.9656177870809,40.95719482991135
+376,Doğu Karadeniz,Trabzon,Sürmene,Sürmene Merkez Soğuksu Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Sürmene,trabzon,surmene,39.280003471048964,41.05084636875794,39.280003471048964,41.05084636875794
+377,Doğu Karadeniz,Trabzon,Vakfıkebir,Vakfıkebir Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Vakfıkebir,trabzon,vakfikebir,39.350400589466574,41.078091424817316,39.350400589466574,41.078091424817316
+378,Doğu Karadeniz,Trabzon,Vakfıkebir,Yalıköy Çekek Yeri,Çekek Yeri,"TOB, UAB",True,False,Vakfıkebir,trabzon,vakfikebir,39.44638913997123,41.10138434791,39.44638913997123,41.10138434791
+379,Doğu Karadeniz,Trabzon,Yomra,Yomra Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Yomra,trabzon,yomra,39.873513196661534,40.95420146584082,39.873513196661534,40.95420146584082
+388,Marmara,Yalova,Armutlu,Armutlu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Armutlu,yalova,armutlu,28.867189590216125,40.49354776049106,28.867189590216125,40.49354776049106
+389,Marmara,Yalova,Armutlu,Fıstıklı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Armutlu,yalova,armutlu,28.85033606195419,40.50655344491069,28.85033606195419,40.50655344491069
+390,Marmara,Yalova,Armutlu,Kapaklı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Armutlu,yalova,armutlu,28.861534762829955,40.49877622312292,28.861534762829955,40.49877622312292
+391,Marmara,Yalova,Çınarcık,Çınarcık Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çınarcık,yalova,cinarcik,29.135950060954137,40.65232256425092,29.135950060954137,40.65232256425092
+392,Marmara,Yalova,Çınarcık,Esenköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çınarcık,yalova,cinarcik,29.114206900309455,40.65115984516343,29.114206900309455,40.65115984516343
+393,Marmara,Yalova,Çınarcık,Koruköy Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çınarcık,yalova,cinarcik,29.112821536364564,40.65108576259889,29.112821536364564,40.65108576259889
+394,Marmara,Yalova,Merkez,Küçüktekne Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,yalova,merkez,29.26436277039558,40.65918945498424,29.26436277039558,40.65918945498424
+395,Marmara,Yalova,Merkez,Samanlıdere Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Merkez,yalova,merkez,29.23444831357274,40.65758977449122,29.23444831357274,40.65758977449122
+396,Batı Karadeniz,Zonguldak,Alaplı,Alaplı Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Alaplı,zonguldak,alapli,31.51073496434873,41.34952685078612,31.51073496434873,41.34952685078612
+397,Batı Karadeniz,Zonguldak,Çaycuma,Filyos Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Çaycuma,zonguldak,caycuma,32.028316783848354,41.57119112059114,32.028316783848354,41.57119112059114
+398,Batı Karadeniz,Zonguldak,Kdz.Ereğli,Ereğli (Bozhane) Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Ereğli,zonguldak,eregli,31.554806054535064,41.36286468161147,31.554806054535064,41.36286468161147
+399,Batı Karadeniz,Zonguldak,Kilimli,Kilimli Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kilimli,zonguldak,kilimli,31.83201816985837,41.48402397832345,31.83201816985837,41.48402397832345
+400,Batı Karadeniz,Zonguldak,Kozlu,Kozlu Balıkçı Barınağı,Balıkçı Barınağı,"TOB, UAB",True,False,Kozlu,zonguldak,kozlu,31.717088416766657,41.42596059671438,31.717088416766657,41.42596059671438

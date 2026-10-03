@@ -1,0 +1,133 @@
+REF_AREA,FREQ,MEASURE,SUPPORT_CAT,SUPPORT_POL,UNIT_MEASURE,REF_AREA_name,FREQ_name,MEASURE_name,SUPPORT_CAT_name,SUPPORT_POL_name,UNIT_MEASURE_name,Year,Value
+TUR,A,FSE,S09,IFRPC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,US dollar,2013,32606485.4
+TUR,A,FSE,S09,IFRPC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,US dollar,2014,24668689.19
+TUR,A,FSE,S09,IFRPC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,US dollar,2015,8263049.041
+TUR,A,FSE,S09,IFRPC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,US dollar,2017,6139390.998
+TUR,A,FSE,S09,IFRPC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,US dollar,2018,826503.5293
+TUR,A,FSE,S09,IFRPC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,National currency,2013,62100000.0
+TUR,A,FSE,S09,IFRPC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,National currency,2014,54000000.0
+TUR,A,FSE,S09,IFRPC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,National currency,2015,22500000.0
+TUR,A,FSE,S09,IFRPC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,National currency,2017,22400000.0
+TUR,A,FSE,S09,IFRPC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Buyback of vessel or licence,Reduction of Fleet Capacity,National currency,2018,4000000.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2012,155935009.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2013,148310967.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2014,142744598.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2015,150181696.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2016,183507865.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2017,174647502.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2018,156938218.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2019,181854821.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2020,231071559.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2021,82082246.0
+TUR,A,FSE,S03,FTC_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,National currency,2022,194128368.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2017,6983500.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2018,8196500.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2019,12830750.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2020,13733500.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2021,22529700.0
+TUR,A,FSE,S07,IFINC_INS_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,National currency,2022,18635700.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2012,50391000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2013,40533000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2014,26623000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2015,32993000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2016,28961000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2017,56078000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2018,75325000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2019,59142000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2020,26548000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2021,19358000.0
+TUR,A,FSE,S05,GSINF_CAP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,National currency,2022,268181000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2012,3600000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2013,4800000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2014,7500000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2015,11000000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2016,15950000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2017,16200000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2018,19500000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2019,8250000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2020,9250000.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2021,86463084.0
+TUR,A,FSE,S13,GSRND_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,National currency,2022,94555000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2012,138568905.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2013,215936853.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2014,134997728.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2015,213277000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2016,288356000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2017,257000000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2018,260655000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2019,296666000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2020,371482973.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2021,404279000.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,National currency,2022,521371000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2012,6856000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2013,4950000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2014,6150000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2015,9523000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2016,11568000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2017,8068000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2018,10568000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2019,22293000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2020,27228000.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2021,55060318.0
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,XDC,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,National currency,2022,230813962.0
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2012,87036552.58
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2013,77872775.86
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2014,65209668.91
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2015,55153720.85
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2016,60714801.28
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2017,47867379.54
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2018,32427497.76
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2019,32036463.76
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2020,32932092.14
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2021,9262818.77
+TUR,A,FSE,S03,FTC_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fuel consumption,Fuel tax concessions,US dollar,2022,11720469.05
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2017,1914037.368
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2018,1693609.044
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2019,2260329.724
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2020,1957284.961
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2021,2542431.99
+TUR,A,FSE,S07,IFINC_INS_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to fisher income,Support to small scale fisheries,US dollar,2022,1125127.395
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2012,2009372.952
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2013,2520308.05
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2014,3426206.832
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2015,4039712.864
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2016,5277163.899
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2017,4440095.275
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2018,4029204.705
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2019,1453361.668
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2020,1318300.935
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2021,9757187.655
+TUR,A,FSE,S13,GSRND_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to research and development other then stock assessment,Research Services,US dollar,2022,5708742.942
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2012,28126197.89
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2013,21282426.29
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2014,12162120.6
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2015,12116567.87
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2016,9581940.043
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2017,15369855.73
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2018,15564094.59
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2019,10418753.43
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2020,3783594.943
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2021,2184511.932
+TUR,A,FSE,S05,GSINF_CAP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Support to infrastructure construction and modernisation,Infrastructure invesment,US dollar,2022,16191384.81
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2012,77343502.68
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2013,113380706.0
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2014,61670685.06
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2015,78325258.24
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2016,95404506.17
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2017,70438548.5
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2018,53858069.36
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2019,52262180.93
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2020,52943389.26
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2021,45622083.85
+TUR,A,FSE,S15,GSMNG_ENF_TUR1,USD,Türkiye,Annual,Fisheries support estimate,"Monitoring, control and surveillance",Enforcement Services,US dollar,2022,31477690.41
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2012,3826739.154
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2013,2599067.677
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2014,2809489.602
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2015,3497289.601
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2016,3827349.968
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2017,2211277.079
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2018,2183622.324
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2019,3927247.475
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2020,3880507.876
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2021,6213447.754
+TUR,A,FSE,S16,GSMNG_EXP_TUR1,USD,Türkiye,Annual,Fisheries support estimate,Fisheries management,Management Services,US dollar,2022,13935355.89
