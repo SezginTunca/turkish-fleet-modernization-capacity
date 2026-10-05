@@ -8,7 +8,7 @@
 
 **Author:** Dr. Sezgin Tunca  
 **Contact:** `sezgin.tunca@gmail.com`  
-**Journal Target:** *ICES Journal of Marine Science* (Oxford University Press)  
+**Journal:** *ICES Journal of Marine Science* (Oxford University Press)  
 **Manuscript ID:** ICESJMS-2026-474  
 
 ---
