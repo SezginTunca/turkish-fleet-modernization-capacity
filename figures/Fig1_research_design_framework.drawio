@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2026-10-01T20:30:00.000Z" agent="Antigravity Research Suite" version="24.0.0" type="device">
+  <diagram id="research-design-framework" name="Figure 1: Research Design, Datasets &amp; Methodological Framework">
+    <mxGraphModel dx="1200" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- TOP HEADER BANNER (Light Academic Navy Theme, No Black) -->
+        <mxCell id="header" value="&lt;b&gt;RESEARCH DESIGN, DATASETS &amp;amp; METHODOLOGICAL FRAMEWORK&lt;/b&gt;&lt;br/&gt;&lt;font color='#475569' style='font-size: 10px;'&gt;&lt;i&gt;Integrated Bioeconomic Evaluation: Census Panel, Non-Parametric Frontiers, and Spatial-Temporal Econometrics&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1.1;fontColor=#1E3A8A;fontSize=12.5;align=center;arcSize=6;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="1090" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="header_stripe" value="" style="line;strokeWidth=2.5;strokeColor=#1E40AF;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="1090" height="1" as="geometry" />
+        </mxCell>
+
+        <!-- PILLAR 1: DATASETS & EMPIRICAL PANEL -->
+        <mxCell id="box_p1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#93C5FD;strokeWidth=1.2;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="74" width="345" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr_p1" value="&lt;b&gt;PILLAR 1: DATASETS &amp;amp; EMPIRICAL PANEL&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size: 8.5px; color: #475569;'&gt;&lt;i&gt;TURKSTAT &amp;amp; SUBIS Census Panel (2000–2024, N = 125)&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#93C5FD;strokeWidth=1;fontColor=#1E40AF;fontSize=9.5;align=center;arcSize=5;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="36" y="80" width="333" height="34" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1_s1" value="&lt;b&gt;Panel Structure &amp;amp; Regional Coverage&lt;/b&gt;&lt;br/&gt;• Five maritime basins: Black Sea, Marmara, Aegean, Med., Inland&lt;br/&gt;• 25 consecutive annual observation periods (125 panel units)&lt;br/&gt;• Consistent spatial administrative boundaries across survey waves" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="38" y="120" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_s2" value="&lt;b&gt;Physical Capital &amp;amp; Fleet Dimensions&lt;/b&gt;&lt;br/&gt;• Active commercial vessel counts across operational length classes&lt;br/&gt;• Cumulative fleet engine power in installed kilowatts and horsepower&lt;br/&gt;• Cumulative gross tonnage reflecting physical hold carrying capacity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="38" y="218" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_s3" value="&lt;b&gt;Capture Production &amp;amp; Economic Value&lt;/b&gt;&lt;br/&gt;• Annual marine capture volume of pelagic and demersal fish&lt;br/&gt;• Landed catch revenue deflated to constant 2015 currency levels&lt;br/&gt;• Controls for temporal price shifts, species mix, and inflation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="38" y="316" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_s4" value="&lt;b&gt;Technology Adoption &amp;amp; Policy Interventions&lt;/b&gt;&lt;br/&gt;• Equipment adoption rates: GPS, echo sounder, radar, sonar, VHF&lt;br/&gt;• 2002 National Commercial Fishing License Freeze (moratorium)&lt;br/&gt;• 2012–2018 State Vessel Buyback Scheme (decommissioning)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="38" y="414" width="329" height="92" as="geometry" />
+        </mxCell>
+
+        <!-- PILLAR 2: FRONTIER MODELING & CAPACITY -->
+        <mxCell id="box_p2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FCD34D;strokeWidth=1.2;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="402" y="74" width="345" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr_p2" value="&lt;b&gt;PILLAR 2: FRONTIER MODELING &amp;amp; CAPACITY&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size: 8.5px; color: #475569;'&gt;&lt;i&gt;Unsupervised PCA, DEA Frontiers &amp;amp; Malmquist TFP&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFBEB;strokeColor=#FCD34D;strokeWidth=1;fontColor=#B45309;fontSize=9.5;align=center;arcSize=5;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="408" y="80" width="333" height="34" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2_s1" value="&lt;b&gt;Modernization Index Construction&lt;/b&gt;&lt;br/&gt;• Unsupervised Principal Component Analysis on five gear technologies&lt;br/&gt;• First principal component extraction capturing dominant variance&lt;br/&gt;• Normalized continuous index scaling adoption from low to high" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_s2" value="&lt;b&gt;Data Envelopment Analysis (DEA)&lt;/b&gt;&lt;br/&gt;• Non-parametric output-oriented linear programming capacity frontiers&lt;br/&gt;• Dual benchmarking under Constant and Variable Returns to Scale&lt;br/&gt;• Capacity utilization defined as observed output relative to frontier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="410" y="218" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_s3" value="&lt;b&gt;Scale Efficiency Decomposition&lt;/b&gt;&lt;br/&gt;• Scale efficiency ratio derived from dual frontier benchmarks&lt;br/&gt;• Operational returns classification into optimal, increasing, decreasing&lt;br/&gt;• Separates capacity gap into scale distortion versus inefficiency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="410" y="316" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_s4" value="&lt;b&gt;Productivity &amp;amp; Finite-Sample Correction&lt;/b&gt;&lt;br/&gt;• Dynamic Malmquist TFP index: efficiency catch-up and technical shift&lt;br/&gt;• Homogeneous smoothed bootstrap resamples for finite-sample bias&lt;br/&gt;• Constructs robust confidence intervals for efficiency and productivity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="410" y="414" width="329" height="92" as="geometry" />
+        </mxCell>
+
+        <!-- PILLAR 3: ECONOMETRICS & IDENTIFICATION -->
+        <mxCell id="box_p3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#99F6E4;strokeWidth=1.2;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="774" y="74" width="345" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr_p3" value="&lt;b&gt;PILLAR 3: ECONOMETRICS &amp;amp; IDENTIFICATION&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size: 8.5px; color: #475569;'&gt;&lt;i&gt;Spatial Diagnostics, Robust HAC &amp;amp; Sensitivity Suite&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDFA;strokeColor=#99F6E4;strokeWidth=1;fontColor=#0F766E;fontSize=9.5;align=center;arcSize=5;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="333" height="34" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p3_s1" value="&lt;b&gt;Pre-Estimation Diagnostic Protocol&lt;/b&gt;&lt;br/&gt;• Cross-sectional dependence tests via Pesaran CD and Friedman tests&lt;br/&gt;• Panel serial autocorrelation checks using Wooldridge and DW tests&lt;br/&gt;• Panel unit root and stationarity validation via Im–Pesaran–Shin tests" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="782" y="120" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s2" value="&lt;b&gt;Spatial &amp;amp; Serial HAC Estimation&lt;/b&gt;&lt;br/&gt;• Driscoll–Kraay non-parametric HAC standard error covariance estimator&lt;br/&gt;• Standard errors robust to spatial spillovers and serial correlation&lt;br/&gt;• Prais–Winsten panel generalized least squares with quasi-differencing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="782" y="218" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s3" value="&lt;b&gt;Two-Way Fixed Effects Specifications&lt;/b&gt;&lt;br/&gt;• Panel specifications with maritime basin and annual fixed effects&lt;br/&gt;• Controls for time-invariant regional unobservables and macro shocks&lt;br/&gt;• Estimates modernization elasticity, capital responsiveness, and policy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="782" y="316" width="329" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s4" value="&lt;b&gt;Alternative Estimators &amp;amp; Sensitivity Suite&lt;/b&gt;&lt;br/&gt;• Censored Tobit and Fractional Logit QMLE for bounded capacity&lt;br/&gt;• Leave-one-basin-out Jackknife iterations verifying spatial stability&lt;br/&gt;• Non-linear Machine Learning Random Forest and SHAP feature importance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;strokeWidth=0.8;arcSize=4;align=left;spacingLeft=10;fontSize=8.2;fontColor=#334155;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="782" y="414" width="329" height="92" as="geometry" />
+        </mxCell>
+
+        <!-- CONNECTING ARROWS -->
+        <mxCell id="arr_1_2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94A3B8;strokeWidth=1.6;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="375" y="300" as="sourcePoint" /><mxPoint x="402" y="300" as="targetPoint" /></mxGeometry>
+        </mxCell>
+        <mxCell id="arr_2_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#94A3B8;strokeWidth=1.6;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="747" y="300" as="sourcePoint" /><mxPoint x="774" y="300" as="targetPoint" /></mxGeometry>
+        </mxCell>
+
+        <!-- BOTTOM WORKFLOW RIBBON -->
+        <mxCell id="ribbon" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="1090" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ribbon_badge" value="&lt;b&gt;SEQUENTIAL&lt;br/&gt;PIPELINE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#93C5FD;strokeWidth=0.9;align=center;verticalAlign=middle;fontSize=7.2;fontColor=#1E40AF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="38" y="556" width="76" height="36" as="geometry" />
+        </mxCell>
+
+        <mxCell id="w1" value="&lt;b&gt;Step 1: Census Ingestion&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px; color:#475569;'&gt;TURKSTAT &amp;amp; SUBIS (N = 125)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=0.8;fontColor=#1E40AF;fontSize=7.5;align=center;arcSize=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="124" y="556" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="w2" value="&lt;b&gt;Step 2: Technology Indexing&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px; color:#475569;'&gt;PCA Modernization Index&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=0.8;fontColor=#1E40AF;fontSize=7.5;align=center;arcSize=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="328" y="556" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="w3" value="&lt;b&gt;Step 3: Frontier Modeling&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px; color:#475569;'&gt;DEA Frontiers &amp;amp; Malmquist TFP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=0.8;fontColor=#1E40AF;fontSize=7.5;align=center;arcSize=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="532" y="556" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="w4" value="&lt;b&gt;Step 4: Econometric ID&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px; color:#475569;'&gt;Driscoll–Kraay &amp;amp; AR(1) FGLS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=0.8;fontColor=#1E40AF;fontSize=7.5;align=center;arcSize=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="736" y="556" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="w5" value="&lt;b&gt;Step 5: Robustness Suite&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px; color:#475569;'&gt;Tobit, FracLogit, Jackknife &amp;amp; ML&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=0.8;fontColor=#1E40AF;fontSize=7.5;align=center;arcSize=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="940" y="556" width="180" height="36" as="geometry" />
+        </mxCell>
+
+        <!-- Arrows between steps -->
+        <mxCell id="ar_w1_2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60A5FA;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="304" y="574" as="sourcePoint" /><mxPoint x="326" y="574" as="targetPoint" /></mxGeometry>
+        </mxCell>
+        <mxCell id="ar_w2_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60A5FA;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="508" y="574" as="sourcePoint" /><mxPoint x="530" y="574" as="targetPoint" /></mxGeometry>
+        </mxCell>
+        <mxCell id="ar_w3_4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60A5FA;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="712" y="574" as="sourcePoint" /><mxPoint x="734" y="574" as="targetPoint" /></mxGeometry>
+        </mxCell>
+        <mxCell id="ar_w4_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60A5FA;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="916" y="574" as="sourcePoint" /><mxPoint x="938" y="574" as="targetPoint" /></mxGeometry>
+        </mxCell>
+
+        <!-- FOOTER -->
+        <mxCell id="footer" value="&lt;i&gt;Figure 1. Systematic research design, datasets, and methodological framework. Open-access replication repository: https://github.com/SezginTunca/turkish-fleet-modernization-capacity&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#64748B;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="608" width="1090" height="20" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

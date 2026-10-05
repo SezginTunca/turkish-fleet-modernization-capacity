@@ -1,0 +1,32 @@
+{
+  "title": "Replication Archive: Technological Modernization Fails to Improve Fleet Capacity Utilization in Turkish Marine Capture Fisheries",
+  "description": "Replication archive, audited panel datasets (2000–2024), R (deaR) Data Envelopment Analysis (DEA) capacity utilization and Malmquist TFP models, and Python panel econometric scripts (Driscoll-Kraay spatial HAC, Prais-Winsten AR(1) FGLS) accompanying the manuscript 'Technological Modernization Fails to Improve Fleet Capacity Utilization in Turkish Marine Capture Fisheries' submitted to ICES Journal of Marine Science (ICESJMS-2026-474).",
+  "creators": [
+    {
+      "name": "Tunca, Sezgin",
+      "affiliation": "Independent Researcher / Department of Sociology, Environmental and Business Economics, University of Southern Denmark",
+      "orcid": "0000-0002-7607-3932"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "fisheries economics",
+    "capacity utilization",
+    "Data Envelopment Analysis",
+    "Malmquist productivity index",
+    "fleet modernization",
+    "vessel buyback",
+    "Turkish fisheries",
+    "open-access overcapacity",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SezginTunca/turkish-fleet-modernization-capacity",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
